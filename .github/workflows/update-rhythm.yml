@@ -1,0 +1,46 @@
+name: Update rhythm page from CPI
+
+on:
+  schedule:
+    # 매일 22:00 KST (= 13:00 UTC)
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-rhythm
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Scrape CPI and update rhythm.md
+        run: python3 scripts/update_rhythm.py
+
+      - name: Commit & push if changed
+        id: commit
+        run: |
+          if git diff --quiet -- docs/rhythm.md; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "변경 없음 - 커밋 생략"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add docs/rhythm.md
+            git commit -m "chore: CPI 리듬게임 데이터 자동 갱신 ($(TZ=Asia/Seoul date +%F))"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # GITHUB_TOKEN으로 푸시하면 push 트리거 워크플로우가 돌지 않으므로 배포를 직접 실행
+      - name: Trigger site deploy
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref master
