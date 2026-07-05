@@ -1,0 +1,40 @@
+/* 진행도 바 (난이도별 클리어율) */
+.cpi-bar {
+  display: block;
+  width: 100%;
+  min-width: 120px;
+  height: 12px;
+  border-radius: 999px;
+  background: var(--md-default-fg-color--lightest);
+  overflow: hidden;
+}
+.cpi-bar > span {
+  display: block;
+  height: 100%;
+  border-radius: 999px;
+  background: linear-gradient(90deg, #6366f1, #a855f7, #ec4899);
+}
+/* 클리어율 구간별 색상 */
+.cpi-bar > span.hi  { background: linear-gradient(90deg,#22c55e,#16a34a); } /* 높음 */
+.cpi-bar > span.mid { background: linear-gradient(90deg,#f59e0b,#f97316); } /* 벽 */
+.cpi-bar > span.lo  { background: linear-gradient(90deg,#ef4444,#b91c1c); } /* 낮음 */
+
+/* 람프(클리어 유형) 뱃지 */
+.lamp {
+  display: inline-block;
+  min-width: 2.2em;
+  padding: 0.1em 0.55em;
+  border-radius: 6px;
+  font-weight: 700;
+  font-size: 0.8em;
+  text-align: center;
+  color: #fff;
+}
+.lamp-ex { background: #f59e0b; }      /* EX-HARD / Excellent */
+.lamp-hc { background: #ef4444; }      /* HARD CLEAR */
+.lamp-cl { background: #22c55e; }      /* CLEAR */
+.lamp-ec { background: #14b8a6; }      /* EASY CLEAR */
+.lamp-ac { background: #a855f7; }      /* ASSIST CLEAR */
+.lamp-fa { background: #64748b; }      /* FAILED */
+.lamp-np { background: #cbd5e1; color: #334155; } /* NOT PLAYED */
+.lamp-fc { background: #38bdf8; }      /* FULL COMBO */

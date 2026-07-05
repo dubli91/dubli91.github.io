@@ -1,11 +1,14 @@
 ---
-title: "CKA 시험 후기" 
-date: 2022-09-05 12:00:00 +0900 
-categories: CKA
+date: 2022-09-05
+categories:
+  - CKA
 tags:
   - CKA
   - Kubernetes
+slug: cka-exam-review
 ---
+
+# CKA 시험 후기
 
 저번 주 토요일에 CKA 시험을 치르고 다음 날인 일요일에 합격 통보를 받았다. 간단히 시험 준비과정과 CKA 시험을 준비하면서 겪은 애로사항 및 느낀 점을 공유하려고 한다.
 

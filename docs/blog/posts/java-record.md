@@ -1,11 +1,14 @@
 ---
-title: "Record 정리" 
-date: 2023-08-25 15:17:00 +0900 
-categories: Java 
+date: 2023-08-25
+categories:
+  - Java
 tags:
   - Java
   - Record
+slug: java-record
 ---
+
+# Record 정리
 
 토비님의 유튜브에서 스프링 강의를 듣고 있는데 Record에 관련된 이야기가 나왔다. Java 스프링으로 밥 벌어먹고 살고 있는 사람으로서 처음 들어보는 키워드였기 때문에 적잖이 당황했다. 구글링을 해보니 class, interface 등과 동급인, 꽤 중요한 키워드인 것 같아서 여기에 정리해본다.
 
@@ -66,4 +69,4 @@ public record Point(
 - Lombok으로도 충분히 boilerplate 함수들을 많이 줄일 수 있다.
 - 아직 회사에서 Java 8을 쓰고있다(앗!). 
 
-우리 회사뿐만 아니라 대부분의 코드들이 아직도 Java 8로 동작한다고 들었다. Java 16 이상이 주류가 되면 쓰일까? 솔직히 잘 모르겠다. 그럼에도 immutable 한 자료구조로써 직접 Java에서 지원을 한다는 것 자체에 의의를 두어야 할 것 같다. 
+우리 회사뿐만 아니라 대부분의 코드들이 아직도 Java 8로 동작한다고 들었다. Java 16 이상이 주류가 되면 쓰일까? 솔직히 잘 모르겠다. 그럼에도 immutable 한 자료구조로써 직접 Java에서 지원을 한다는 것 자체에 의의를 두어야 할 것 같다.

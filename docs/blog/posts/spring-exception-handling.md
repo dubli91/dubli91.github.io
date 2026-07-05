@@ -1,11 +1,14 @@
 ---
-title: "Spring Boot로 Exception 정의하기" 
-date: 2020-10-24 15:20:00 +0900 
-categories: Springboot
+date: 2020-10-24
+categories:
+  - Springboot
 tags:
   - Java
   - Springboot
+slug: spring-exception-handling
 ---
+
+# Spring Boot로 Exception 정의하기
 
 REST API에서는 에러가 발생할 경우 404 같은 일반적인 status code가 아닌, 서버 쪽에서 정의한 error code를 별도로 리턴하는 경우가 있다. 서버쪽에서 error code를 별도로 정의하면 예를 들어 같은 404 에러라도 세분화하여 에러를 구분할 수 있고, 클라이언트 측에서도 상황별로 에러 처리를 하기가 편해진다.
 

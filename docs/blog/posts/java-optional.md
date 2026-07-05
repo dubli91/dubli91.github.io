@@ -1,11 +1,14 @@
 ---
-title: "Optional 정리" 
-date: 2023-09-22 13:11:00 +0900 
-categories: Java 
+date: 2023-09-22
+categories:
+  - Java
 tags:
   - Java
   - Optional
+slug: java-optional
 ---
+
+# Optional 정리
 
 약 6년 된 코드를 리팩토링 하고 있는데, Optional을 씌우고 벗기고 하는 과정이 너무 많았다. 굳이 Optional을 안써도 되는데 쓰는건지, 아니면 제대로 쓰고 있는건데 내가 이해를 못하는건지 궁금해졌다. 그래서 공부하고 정리한다. 
 

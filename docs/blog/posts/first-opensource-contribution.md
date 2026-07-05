@@ -1,12 +1,15 @@
 ---
-title: "문서 한 줄 수정으로 오픈소스 컨트리뷰터 되기" 
-date: 2024-09-10 00:00:00 +0900 
-categories: Python
+date: 2024-09-10
+categories:
+  - Python
 tags:
   - Python
   - PyanmoDB
   - Open Source
+slug: first-opensource-contribution
 ---
+
+# 문서 한 줄 수정으로 오픈소스 컨트리뷰터 되기
 
 이번 글은 나의 첫 번째 오픈소스 컨트리뷰팅 후기이다!
 
@@ -47,7 +50,7 @@ tags:
 ## 1. 직접 오픈소스 문서를 수정해보기로 결심하다.
 현업에서 dynamoDB를 ORM처럼 사용할 수 있도록 도와주는 PynamoDB를 잘 사용하고 있는데, 그 와중에 몇 달 전부터 공식 문서에 눈에 거슬리는 부분이 있었다. 바로 아래 목차부분이었는데, "set  action"부분만 뭐가 잘못 되었는지 들여쓰기가 되어 있었다. 아무리 봐도 나머지 Action들과 동일한 레벨에 있어야 하는 거 아닌가 싶었다.
 
-![Before](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/before.png?raw=true)
+![Before](images/240910/before.png)
 
 [아무리 봐도 set action이 거슬린다]
 
@@ -58,7 +61,7 @@ tags:
 
 docs/contributing.rst라는 파일이 있어 확인해보니, 단순하게 master 브랜치를 포크해서 수정한 후에 pull request를 하면 되는 것을 확인했다. 물론 테스트를 통과해야하고, 필요 시 관련 문서도 추가 작성해야하지만 나는 공식문서 오타를 고치는 수준이라 크게 상관 없었다.
 
-![contributing.rst](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/contributing.png?raw=true)
+![contributing.rst](images/240910/contributing.png)
 
 (코드 수정에 따른 테스트 및 문서 수정은 당연한 것!)
 
@@ -68,10 +71,10 @@ docs/contributing.rst라는 파일이 있어 확인해보니, 단순하게 maste
 코드를 찾아보니 수정이 필요한 파일은 docs/updates.rst 였다. rst파일은 처음 다뤄보는 거라 찾아보니, reStructuredText의 약자로서 파이썬에서 주로 쓰이는 기술 문서 파일 형식이라고 한다.
 처음부터 rst파일의 문법을 공부할 엄두는 안 나서 문서의 "set action"항목과 나머지 action항목의 차이점을 비교해보니, 의외로 문제점을 쉽게 파악할 수 있었다.
 
-![set action before](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/set_action_before.png?raw=true)
+![set action before](images/240910/set_action_before.png)
 set action은 위와 같이 """"가 아래에 붙고
 
-![add action](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/add_action.png?raw=true)
+![add action](images/240910/add_action.png)
 그 외의 action은 ^^^^가 붙는다. 
 
 "set action" 아래에 있던 """""""""""""" 를 다른 action들 아래 있는 ^^^^^^^^^^^^^^ 로 동일하게 바꿔주었다.
@@ -82,12 +85,12 @@ set action은 위와 같이 """"가 아래에 붙고
 
 처음에 시도했던 것은 vscode의 rst 뷰어 플러그인이었다. 하지만 플러그인으로 미리보기를 확인한 순간 무언가 잘못되었음을 깨달았다.
 
-![wrong_preview](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/wrong_preview.png?raw=true)
+![wrong_preview](images/240910/wrong_preview.png)
 [사이드바는 어디에?..]
 
 포크했던 PynamoDB 코드를 더 찾아보니 .readthedocs.yaml이라는 파일에 어떻게 빌드하는지 나와있었다. 
 
-![readthedocs](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/readthedocs.png?raw=true)
+![readthedocs](images/240910/readthedocs.png)
 
 Sphinx는 또 뭔가? ChatGPT에게 물어봤다.
 
@@ -95,25 +98,25 @@ Sphinx는 또 뭔가? ChatGPT에게 물어봤다.
 
 ChatGPT에서 빌드 방법도 물어보고 따라서 빌드를 해 보니 html 폴더가 생겼다. 크롬으로 열어보니 정상적으로 수정된 것을 확인했다!
 
-![test](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/test.png?raw=true)
+![test](images/240910/test.png)
 
 
 ## 5. 풀리퀘스트를 열다
 수정도 끝났고 테스트도 끝났으니 풀 리퀘스트를 열어본다!
 
-![pull_req](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/pull_req.png?raw=true)
+![pull_req](images/240910/pull_req.png)
 
 곧바로 approve가 되었다. 하지만 머지는 어떻게 해야하나? 심지어 Github Action으로 돌아가던 테스트는 일부 실패했다. 하지만 나는 단순 문서 수정이고 실패한 것은 python 테스트이니 내 잘못은 아니다.
 
 그래도 혹시나 몰라서 아래와 같이 댓글을 달았는데, 리뷰어도 별 문제 없을 거라 생각했는지 바로 머지 해줬다.
 
-![comment](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/comment.png?raw=true)
+![comment](images/240910/comment.png)
 
 끼얏호우!
 
 이제 공식 문서를 다시 들어가본다. 공식 문서 버전을 stable에서 latest로 바꿔보면 내가 수정한 부분이 반영되어 있다!
 
-![latest](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/240910/latest.png?raw=true)
+![latest](images/240910/latest.png)
 [적용 완료!]
 
 ## 6. 느낀 점

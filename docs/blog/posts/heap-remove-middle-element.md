@@ -1,13 +1,16 @@
 ---
-title: "Heap에서 중간 원소 삭제하기" 
-date: 2021-05-19 12:00:00 +0900 
-categories: Data structure
-tags: 
+date: 2021-05-19
+categories:
+  - Data structure
+tags:
   - Samsung
   - Heap
   - Data Structure
   - Algorithm
+slug: heap-remove-middle-element
 ---
+
+# Heap에서 중간 원소 삭제하기
 
 요즘 삼성전자 SW 역량테스트 B급을 공부할 일이 생겼다. (https://swexpertacademy.com/main/sst/intro.do) 삼성에 3급 공채로 입사할 때 보는 시험은 A급이라고 보면 되고, 삼성 입사 후에 추가로 B급까지 가거나 욕심이 더 있으신 분들은 C급까지 가는 시험이다. 
 
@@ -73,13 +76,13 @@ Heap에서 원소를 삭제한다고 하면 보통 Pop이다. Heap에서 루트 
 ## 내가 겪은 상황 
 아래는 내가 실제로 구현한 Heap의 구조이다. Key와 우선순위로 이뤄져 있는데, 우선순위가 높은 순서대로, 우선순위가 같다면 Key값이 높은 순서대로 정렬되어야한다.
 
-![image1](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/210519/210519-01.PNG?raw=true)
+![image1](images/210519/210519-01.PNG)
 
 지금 이 상황에서는 Pop을 차례대로 하다보면 우선순위가 높은 순서대로 원소들이 나온다. 문제는 Key : 72인 노드 삭제 이후에 발생했다.
 
 여기서 자식 노드에 대해서만 Heapify를 진행했더니 아래와 같이 Key : 39인 노드가 자리 배치가 제대로 이뤄지지 않았다. 이 때문에 Pop을 여러번 진행할 때 Key : 8 이후에 반환되어야 하는 Key : 39 대신 엉뚱한 Key가 반환 되었다. 
 
-![image2](https://github.com/EXPYH/.github.io/blob/master/_posts/images/210519/210519-02.PNG?raw=true)
+![image2](images/210519/210519-02.PNG)
 
 <br/>
 
@@ -97,7 +100,7 @@ Heap에서 원소를 삭제한다고 하면 보통 Pop이다. Heap에서 루트 
 > 삭제했던 노드 위치를 시작으로 Push Heapify를 진행한다.
 
 다시 위 자료구조를 제대로 Heapify를 하면 다음과 같다.
-![image3](https://github.com/EXPYH/dubli91.github.io/blob/master/_posts/images/210519/210519-03.PNG?raw=true)
+![image3](images/210519/210519-03.PNG)
 
 <br/>
 

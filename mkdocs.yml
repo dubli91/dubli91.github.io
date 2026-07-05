@@ -1,0 +1,115 @@
+site_name: Younghwan Shin · Portfolio
+site_description: 가치를 고민하는 개발자의 포트폴리오
+site_author: Younghwan Shin
+# 배포 주소가 정해지면 수정하세요 (예: GitHub Pages)
+site_url: https://dubli91.github.io/
+
+theme:
+  name: material
+  language: ko
+  font:
+    text: Noto Sans KR
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 다크 모드로 전환
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 라이트 모드로 전환
+  icon:
+    repo: fontawesome/brands/github
+
+# 소스 저장소 (유저 사이트 배포 기준)
+repo_url: https://github.com/dubli91/dubli91.github.io
+repo_name: dubli91/dubli91.github.io
+
+nav:
+  - 소개: index.md
+  - 기술 & 프로젝트:
+      - 기술 스택: tech-stack.md
+      - 프로젝트:
+          - 전체 보기: projects/index.md
+          - 프로젝트 A: projects/project-a.md
+  - Blog:
+      - blog/index.md
+      - blog/posts/first-opensource-contribution.md
+      - blog/posts/testcontainers-jpa-test.md
+      - blog/posts/reading-translation-vs-original.md
+      - blog/posts/java-optional.md
+      - blog/posts/java-record.md
+      - blog/posts/cka-exam-review.md
+      - blog/posts/pydeps-python-dependency.md
+      - blog/posts/heap-remove-middle-element.md
+      - blog/posts/main-overriding-overloading.md
+      - blog/posts/spring-exception-handling.md
+  - 리듬게임: rhythm.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+      lang: ko
+  - minify:
+      minify_html: true
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  # 푸터의 "Made with Material for MkDocs" 문구 제거
+  generator: false
+  # 다국어 셀렉터 (헤더 우측에 언어 드롭다운 표시)
+  # ⚠ English 는 아직 번역본이 없어 404 입니다. 실제 다국어는 하단 안내 참고.
+  alternate:
+    - name: 한국어
+      link: /
+      lang: ko
+    - name: English
+      link: /en/
+      lang: en
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dubli91
+      name: GitHub
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:dublineryh@gmail.com
+      name: Email
+
+copyright: Copyright &copy; 2026 Younghwan Shin

@@ -1,11 +1,14 @@
 ---
-title: "Pydeps로 Python 의존성 파악하기" 
-date: 2022-03-14 12:00:00 +0900 
-categories: Python
+date: 2022-03-14
+categories:
+  - Python
 tags:
   - Python
   - Pydeps
+slug: pydeps-python-dependency
 ---
+
+# Pydeps로 Python 의존성 파악하기
 
 파이썬으로 코드를 작성하면서 import를 남발하다 보면 circular import 에(순환참조)가 발생할 때가 있다. 이런 오류가 발생했을 때는 이미 클래스가 수십개가 되어버려서 어느 부분에서 순환참조가 일어난 것인지 찾기 쉽지 않다.
 
@@ -88,7 +91,7 @@ AttributeError: partially initialized module 'a' has no attribute 'today' (most 
 ```
 pydeps main.py
 ```
-![image2](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/220315/220315-01.png?raw=true) <br>
+![image2](images/220315/220315-01.png) <br>
 
 main.py 에서 import a를 했다는 것을 표현해준다. 하지만 이것으론 순환참조 관계를 알 수 없다. 더 깊이 탐색하기 위해서는 --max-bacon 옵션을 사용해야한다. 
 
@@ -100,7 +103,7 @@ main.py 에서 import a를 했다는 것을 표현해준다. 하지만 이것으
 ```
 pydeps main.py --max-bacon 0 --reverse
 ```
-![image3](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/220315/220315-02.png?raw=true) <br>
+![image3](images/220315/220315-02.png) <br>
 
 a.py / b.py / c.py가 서로 참조하고 있음을 확인할 수 있다. 
 
@@ -110,7 +113,7 @@ a.py / b.py / c.py가 서로 참조하고 있음을 확인할 수 있다.
 ```
 pydeps main.py --max-bacon 0 --reverse --show-cycles
 ```
-![image4](https://github.com/dubli91/dubli91.github.io/blob/master/_posts/images/220315/220315-03.png?raw=true) <br>
+![image4](images/220315/220315-03.png) <br>
 
 ## 의존성 그래프를 파일로 출력하기 
 개인적으로는 회사에서 사용했을 때 pydeps가 graphviz를 인식하지 못해서 다음과 같은 에러가 발생했었다.

@@ -1,4 +1,7 @@
-_site
-.sass-cache
-.jekyll-metadata
-Gemfile.lock
+# mkdocs build output
+/site/
+
+# python / uv
+.venv/
+__pycache__/
+*.pyc

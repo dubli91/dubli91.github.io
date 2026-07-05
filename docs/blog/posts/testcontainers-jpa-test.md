@@ -1,13 +1,15 @@
 ---
-title: "TestContainers를 활용한 JPA 유닛 테스트" 
-date: 2024-07-23 00:00:00 +0900 
-categories: Java
+date: 2024-07-23
+categories:
+  - Java
 tags:
   - Java
   - Springboot
-  - TestContainers 
+  - TestContainers
+slug: testcontainers-jpa-test
 ---
 
+# TestContainers를 활용한 JPA 유닛 테스트
 
 오늘은 유닛 테스트를서작성하면서 가장 고민되었던 부분 중 하나인 DB관련 유닛 테스트에 대해 다뤄보려고 한다. 그리고 컨테이너 기술을 통해 DB 유닛 테스트를 도와주는 TestContainers를 소개한다.
 
@@ -254,4 +256,4 @@ TestContainers를 통해 기존의 문제점이 다음과 같이 해결되었다
     - 프록시나 정책 문제로 docker를 이용하기 힘들거나 docker 이미지 레지스트리 연결등이 원활하지 않다면 실행하기 힘들다.
 2. 비교적 최신의 spring 버전이 필요하다. 따라서 레거시 코드들에 적용하기 어렵다.
 
-현업에서 당장은 못쓰고 개인 토이프로젝트나 새로운 프로젝트를 시작할 때 적극적으로 써 봐야겠다. 
+현업에서 당장은 못쓰고 개인 토이프로젝트나 새로운 프로젝트를 시작할 때 적극적으로 써 봐야겠다.
