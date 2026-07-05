@@ -45,6 +45,10 @@ theme:
 repo_url: https://github.com/dubli91/dubli91.github.io
 repo_name: dubli91/dubli91.github.io
 
+# 비공개 문서: 빌드/검색에서 완전히 제외 (nav 주석 해제 시 이 항목도 함께 제거)
+exclude_docs: |
+  rhythm.md
+
 nav:
   - 소개: index.md
   - 기술 & 프로젝트:
@@ -64,7 +68,7 @@ nav:
       - blog/posts/heap-remove-middle-element.md
       - blog/posts/main-overriding-overloading.md
       - blog/posts/spring-exception-handling.md
-  - 리듬게임: rhythm.md
+  # - 리듬게임: rhythm.md  # 일단 비공개
 
 markdown_extensions:
   - admonition
