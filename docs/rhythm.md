@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.07.11**
+    **2026.07.12**
 
     프로필 개설 2026.04.01
 
@@ -76,8 +76,8 @@
 | <span class="lamp lamp-hc">HC</span> | Hard Clear | 379 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 6 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 3 |
-| <span class="lamp lamp-ac">AC</span> | Assist Clear | 10 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 58 |
+| <span class="lamp lamp-ac">AC</span> | Assist Clear | 11 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 57 |
 | <span class="lamp lamp-np">NP</span> | Not Played | 141 |
 
 <!-- cpi:lamps:end -->
@@ -214,7 +214,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Red. by Jack Trance](https://cpi.makecir.com/scores/view/45) | 1787.17 | 174.64 | <span class="lamp lamp-np">NP</span> |
     | [SOLAR ECLIPSE](https://cpi.makecir.com/scores/view/502) | 1755.20 | 144.27 | <span class="lamp lamp-np">NP</span> |
     | [STEEL NEEDLE \[L\]](https://cpi.makecir.com/scores/view/404) | 1756.25 | 130.21 | <span class="lamp lamp-fa">FA</span> |
-    | [The Chase](https://cpi.makecir.com/scores/view/79) | 1751.46 | 237.96 | <span class="lamp lamp-fa">FA</span> |
+    | [The Chase](https://cpi.makecir.com/scores/view/79) | 1751.46 | 237.96 | <span class="lamp lamp-ac">AC</span> |
     | [THE PEERLESS UNDER HEAVEN](https://cpi.makecir.com/scores/view/375) | 1776.01 | 137.35 | <span class="lamp lamp-np">NP</span> |
     | [Timepiece phase II (CN Ver.)](https://cpi.makecir.com/scores/view/233) | 1773.25 | 117.05 | <span class="lamp lamp-fa">FA</span> |
     | [TITANS RETURN \[L\]](https://cpi.makecir.com/scores/view/257) | 1777.47 | 153.69 | <span class="lamp lamp-np">NP</span> |
