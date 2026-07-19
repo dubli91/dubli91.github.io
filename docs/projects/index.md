@@ -2,9 +2,9 @@
      프로젝트 목록 페이지 — 포트폴리오의 본론입니다.
      - 카드 하나 = 프로젝트 하나. 상세 페이지로 연결합니다.
      - 새 프로젝트를 추가할 때:
-       1) projects/ 아래에 새 .md 파일 생성 (project-a.md 를 복사해서 시작)
+       1) projects/ 아래에 새 .md 파일 생성 (또는 blog/posts/ 글에 링크)
        2) 아래 카드 하나를 복사해 링크/요약/기술 수정
-       3) mkdocs.yml 의 nav > 프로젝트 에 페이지 등록
+       3) projects/ 아래 파일이면 mkdocs.yml 의 nav > 프로젝트 에 페이지 등록
      ========================================================= -->
 
 # 프로젝트
@@ -15,17 +15,15 @@
 
 <div class="grid cards" markdown>
 
--   ### [프로젝트 A — 주문 처리 시스템](project-a.md)
+-   ### [서비스 PoC용 파일 제공 서버](../blog/posts/aws-lambda-adapter.md)
 
     ---
 
-    <!-- TODO: 이 프로젝트를 한 문장으로 요약 (핵심 성과 위주) -->
-    대량 주문 처리 시 발생하던 지연을 비동기 큐 도입으로 개선.
+    k8s/EC2 없이 AWS Lambda Web Adapter + API Gateway 조합으로 FastAPI 서버를 운영. 백엔드 개발 경험은 유지하면서 인프라 부담 최소화.
 
-    <!-- TODO: 대표 기술 3~4개 -->
-    **Spring Boot · Redis · Kafka**
+    **AWS Lambda · API Gateway · FastAPI · Terraform**
 
-    :material-arrow-right: [자세히 보기](project-a.md)
+    :material-arrow-right: [자세히 보기](../blog/posts/aws-lambda-adapter.md)
 
 -   ### 프로젝트 B — *(작성 예정)*
 

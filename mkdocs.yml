@@ -51,7 +51,6 @@ nav:
       - 기술 스택: tech-stack.md
       - 프로젝트:
           - 전체 보기: projects/index.md
-          - 프로젝트 A: projects/project-a.md
   - Blog:
       - blog/index.md
       - blog/posts/aws-lambda-adapter.md
