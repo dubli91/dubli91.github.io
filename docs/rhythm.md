@@ -17,9 +17,9 @@
 
     ---
 
-    **1658.62**
+    **1659.20**
 
-    추정 순위 약 8,454위
+    추정 순위 약 8,430위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.07.17**
+    **2026.07.19**
 
     프로필 개설 2026.04.01
 
@@ -59,7 +59,7 @@
 | --- | ---: | ---: | --- |
 | **EASY**  | 413 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
 | **CLEAR** | 410 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
-| **HARD**  | 404 / 620 | 65% | <span class="cpi-bar"><span style="width:65%"></span></span> |
+| **HARD**  | 405 / 620 | 65% | <span class="cpi-bar"><span style="width:65%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -73,8 +73,8 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 23 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 381 |
-| <span class="lamp lamp-cl">CL</span> | Clear | 6 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 382 |
+| <span class="lamp lamp-cl">CL</span> | Clear | 5 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 3 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 10 |
 | <span class="lamp lamp-fa">FA</span> | Failed | 57 |
@@ -92,7 +92,7 @@
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 215 | 92% |
-    | 1600~1650 | 100 | 88 | 88% |
+    | 1600~1650 | 100 | 89 | 89% |
     | 1650~1700 | 70 | 26 | 37% |
     | 1700+ | 131 | 1 | 1% |
     | 미집계 | 18 | 8 | 44% |
@@ -393,7 +393,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [HAERETICUS](https://cpi.makecir.com/scores/view/253) | 1633.36 | 63.63 | <span class="lamp lamp-hc">HC</span> |
     | [Hollywood Galaxy](https://cpi.makecir.com/scores/view/222) | 1618.45 | 63.76 | <span class="lamp lamp-hc">HC</span> |
     | [Illusionary Waterlily](https://cpi.makecir.com/scores/view/70) | 1600.22 | 59.55 | <span class="lamp lamp-hc">HC</span> |
-    | [INSOMNIA](https://cpi.makecir.com/scores/view/195) | 1627.50 | 64.34 | <span class="lamp lamp-cl">CL</span> |
+    | [INSOMNIA](https://cpi.makecir.com/scores/view/195) | 1627.50 | 64.34 | <span class="lamp lamp-hc">HC</span> |
     | [Invitation from Mr.C](https://cpi.makecir.com/scores/view/158) | 1600.54 | 79.50 | <span class="lamp lamp-hc">HC</span> |
     | [kors k&#039;s How to make OTOGE CORE 「LONG」](https://cpi.makecir.com/scores/view/489) | 1612.88 | 97.66 | <span class="lamp lamp-hc">HC</span> |
     | [LASER CRUSTER (IGNITE REMIX)](https://cpi.makecir.com/scores/view/8) | 1617.05 | 75.56 | <span class="lamp lamp-hc">HC</span> |
