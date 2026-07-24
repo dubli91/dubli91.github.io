@@ -53,6 +53,7 @@ nav:
           - 전체 보기: projects/index.md
   - Blog:
       - blog/index.md
+      - blog/posts/gke-zone-reservation.md
       - blog/posts/aws-lambda-adapter.md
       - blog/posts/ralph-loop.md
       - blog/posts/first-opensource-contribution.md
