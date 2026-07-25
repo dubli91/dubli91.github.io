@@ -35,7 +35,7 @@
 
     **ELABO**
 
-    ID 8363-2725
+    ID 8***-****
 
 -   :material-update:{ .lg .middle } __갱신__
 

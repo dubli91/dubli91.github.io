@@ -7,6 +7,7 @@ site_url: https://dubli91.github.io/
 theme:
   name: material
   language: ko
+  logo: assets/images/img_qpro.png
   font:
     text: Noto Sans KR
     code: JetBrains Mono
