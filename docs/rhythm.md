@@ -17,9 +17,9 @@
 
     ---
 
-    **1665.16**
+    **1665.22**
 
-    추정 순위 약 8,255위
+    추정 순위 약 8,253위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.07.24**
+    **2026.07.25**
 
     프로필 개설 2026.04.01
 
@@ -57,7 +57,7 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 415 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
+| **EASY**  | 416 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
 | **CLEAR** | 412 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
 | **HARD**  | 409 / 620 | 65% | <span class="cpi-bar"><span style="width:65%"></span></span> |
 
@@ -75,10 +75,10 @@
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 29 |
 | <span class="lamp lamp-hc">HC</span> | Hard Clear | 380 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 3 |
-| <span class="lamp lamp-ec">EC</span> | Easy Clear | 3 |
+| <span class="lamp lamp-ec">EC</span> | Easy Clear | 4 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 10 |
 | <span class="lamp lamp-fa">FA</span> | Failed | 57 |
-| <span class="lamp lamp-np">NP</span> | Not Played | 138 |
+| <span class="lamp lamp-np">NP</span> | Not Played | 137 |
 
 <!-- cpi:lamps:end -->
 
@@ -253,7 +253,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [GO OVER WITH GLARE -ROOTAGE 26-](https://cpi.makecir.com/scores/view/34) | 1738.69 | 122.05 | <span class="lamp lamp-fa">FA</span> |
     | [God Mind](https://cpi.makecir.com/scores/view/599) | 1714.33 | 111.35 | <span class="lamp lamp-np">NP</span> |
     | [GuNGNiR](https://cpi.makecir.com/scores/view/94) | 1703.45 | 84.14 | <span class="lamp lamp-np">NP</span> |
-    | [Initiation](https://cpi.makecir.com/scores/view/71) | 1702.31 | 86.60 | <span class="lamp lamp-ac">AC</span> |
+    | [Initiation](https://cpi.makecir.com/scores/view/71) | 1702.31 | 86.60 | <span class="lamp lamp-ec">EC</span> |
     | [JOMANDA](https://cpi.makecir.com/scores/view/223) | 1704.77 | 117.33 | <span class="lamp lamp-fa">FA</span> |
     | [LIGHTNING STRIKES \[L\]](https://cpi.makecir.com/scores/view/570) | 1736.69 | 109.58 | <span class="lamp lamp-np">NP</span> |
     | [LOCUS OF THE TRAVEL](https://cpi.makecir.com/scores/view/407) | 1714.46 | 121.20 | <span class="lamp lamp-cl">CL</span> |
@@ -313,7 +313,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Inferno of Fomalhaut](https://cpi.makecir.com/scores/view/7) | 1682.29 | 136.28 | <span class="lamp lamp-hc">HC</span> |
     | [invoker \[L\]](https://cpi.makecir.com/scores/view/208) | 1667.81 | 67.39 | <span class="lamp lamp-np">NP</span> |
     | [KAISER PHOENIX](https://cpi.makecir.com/scores/view/198) | 1679.41 | 72.91 | <span class="lamp lamp-fa">FA</span> |
-    | [Level 3](https://cpi.makecir.com/scores/view/408) | 1699.99 | 167.85 | <span class="lamp lamp-np">NP</span> |
+    | [Level 3](https://cpi.makecir.com/scores/view/408) | 1699.99 | 167.85 | <span class="lamp lamp-ac">AC</span> |
     | [Life Is A Game ft.DD&quot;ナカタ&quot;Metal](https://cpi.makecir.com/scores/view/72) | 1655.63 | 66.66 | <span class="lamp lamp-hc">HC</span> |
     | [Marie Antoinette \[L\]](https://cpi.makecir.com/scores/view/413) | 1654.69 | 141.94 | <span class="lamp lamp-np">NP</span> |
     | [MAX 300](https://cpi.makecir.com/scores/view/520) | 1655.86 | 124.59 | <span class="lamp lamp-hc">HC</span> |
