@@ -38,3 +38,8 @@
 .lamp-fa { background: #64748b; }      /* FAILED */
 .lamp-np { background: #cbd5e1; color: #334155; } /* NOT PLAYED */
 .lamp-fc { background: #38bdf8; }      /* FULL COMBO */
+
+.md-header__button.md-logo,
+.md-nav__button.md-logo {
+  display: none;
+}
