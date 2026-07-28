@@ -17,9 +17,9 @@
 
     ---
 
-    **1665.22**
+    **1665.86**
 
-    추정 순위 약 8,253위
+    추정 순위 약 8,228위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.07.25**
+    **2026.07.28**
 
     프로필 개설 2026.04.01
 
@@ -57,9 +57,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 416 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
-| **CLEAR** | 412 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
-| **HARD**  | 409 / 620 | 65% | <span class="cpi-bar"><span style="width:65%"></span></span> |
+| **EASY**  | 417 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
+| **CLEAR** | 413 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
+| **HARD**  | 410 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -73,11 +73,11 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 29 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 380 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 381 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 3 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 4 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 10 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 57 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 56 |
 | <span class="lamp lamp-np">NP</span> | Not Played | 137 |
 
 <!-- cpi:lamps:end -->
@@ -93,7 +93,7 @@
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 215 | 92% |
     | 1600~1650 | 100 | 90 | 90% |
-    | 1650~1700 | 70 | 29 | 41% |
+    | 1650~1700 | 70 | 30 | 43% |
     | 1700+ | 131 | 1 | 1% |
     | 미집계 | 18 | 8 | 44% |
 
@@ -294,7 +294,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Antigravity](https://cpi.makecir.com/scores/view/63) | 1673.43 | 93.13 | <span class="lamp lamp-fa">FA</span> |
     | [Artist](https://cpi.makecir.com/scores/view/2) | 1651.27 | 76.08 | <span class="lamp lamp-hc">HC</span> |
     | [Be quiet \[L\]](https://cpi.makecir.com/scores/view/397) | 1695.39 | 155.60 | <span class="lamp lamp-hc">HC</span> |
-    | [BLACK or WHITE?](https://cpi.makecir.com/scores/view/388) | 1661.24 | 91.45 | <span class="lamp lamp-fa">FA</span> |
+    | [BLACK or WHITE?](https://cpi.makecir.com/scores/view/388) | 1661.24 | 91.45 | <span class="lamp lamp-hc">HC</span> |
     | [BLUE MIRAGE](https://cpi.makecir.com/scores/view/145) | 1667.35 | 89.90 | <span class="lamp lamp-hc">HC</span> |
     | [Blue Spring Express](https://cpi.makecir.com/scores/view/119) | 1683.10 | 68.99 | <span class="lamp lamp-fa">FA</span> |
     | [CADENZA](https://cpi.makecir.com/scores/view/523) | 1689.55 | 94.49 | <span class="lamp lamp-hc">HC</span> |
