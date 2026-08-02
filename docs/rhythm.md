@@ -17,9 +17,9 @@
 
     ---
 
-    **1668.48**
+    **1671.36**
 
-    추정 순위 약 8,137위
+    추정 순위 약 8,052위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.07.31**
+    **2026.08.02**
 
     프로필 개설 2026.04.01
 
@@ -57,9 +57,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 420 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
-| **CLEAR** | 416 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
-| **HARD**  | 413 / 620 | 66% | <span class="cpi-bar"><span style="width:66%"></span></span> |
+| **EASY**  | 422 / 620 | 68% | <span class="cpi-bar"><span style="width:68%"></span></span> |
+| **CLEAR** | 418 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
+| **HARD**  | 416 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -73,11 +73,11 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 29 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 384 |
-| <span class="lamp lamp-cl">CL</span> | Clear | 3 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 387 |
+| <span class="lamp lamp-cl">CL</span> | Clear | 2 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 4 |
-| <span class="lamp lamp-ac">AC</span> | Assist Clear | 9 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 54 |
+| <span class="lamp lamp-ac">AC</span> | Assist Clear | 8 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 53 |
 | <span class="lamp lamp-np">NP</span> | Not Played | 137 |
 
 <!-- cpi:lamps:end -->
@@ -92,8 +92,8 @@
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 216 | 93% |
-    | 1600~1650 | 100 | 91 | 91% |
-    | 1650~1700 | 70 | 31 | 44% |
+    | 1600~1650 | 100 | 93 | 93% |
+    | 1650~1700 | 70 | 32 | 46% |
     | 1700+ | 131 | 1 | 1% |
     | 미집계 | 18 | 8 | 44% |
 
@@ -334,7 +334,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [THE F∀UST](https://cpi.makecir.com/scores/view/19) | 1692.06 | 90.01 | <span class="lamp lamp-fa">FA</span> |
     | [Tiempo Loco](https://cpi.makecir.com/scores/view/391) | 1653.64 | 86.76 | <span class="lamp lamp-hc">HC</span> |
     | [Unbelief](https://cpi.makecir.com/scores/view/49) | 1657.81 | 84.66 | <span class="lamp lamp-hc">HC</span> |
-    | [Verflucht](https://cpi.makecir.com/scores/view/205) | 1673.45 | 91.70 | <span class="lamp lamp-fa">FA</span> |
+    | [Verflucht](https://cpi.makecir.com/scores/view/205) | 1673.45 | 91.70 | <span class="lamp lamp-hc">HC</span> |
     | [Violet Pulse \[L\]](https://cpi.makecir.com/scores/view/515) | 1679.40 | 105.37 | <span class="lamp lamp-fa">FA</span> |
     | [VOLAQUAS](https://cpi.makecir.com/scores/view/465) | 1651.93 | 96.62 | <span class="lamp lamp-hc">HC</span> |
     | [waxing and wanding \[L\]](https://cpi.makecir.com/scores/view/334) | 1651.13 | 81.75 | <span class="lamp lamp-fa">FA</span> |
@@ -368,7 +368,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [ANCHOR](https://cpi.makecir.com/scores/view/62) | 1610.64 | 69.09 | <span class="lamp lamp-hc">HC</span> |
     | [ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)](https://cpi.makecir.com/scores/view/387) | 1606.90 | 93.28 | <span class="lamp lamp-hc">HC</span> |
     | [ATHER \[L\]](https://cpi.makecir.com/scores/view/516) | 1645.41 | 205.50 | <span class="lamp lamp-hc">HC</span> |
-    | [Bad Maniacs](https://cpi.makecir.com/scores/view/286) | 1633.13 | 69.65 | <span class="lamp lamp-ac">AC</span> |
+    | [Bad Maniacs](https://cpi.makecir.com/scores/view/286) | 1633.13 | 69.65 | <span class="lamp lamp-hc">HC</span> |
     | [BEAT PRISONER](https://cpi.makecir.com/scores/view/3) | 1612.35 | 88.11 | <span class="lamp lamp-hc">HC</span> |
     | [BLUE DRAGON(雷龍RemixIIDX)](https://cpi.makecir.com/scores/view/189) | 1610.55 | 65.03 | <span class="lamp lamp-hc">HC</span> |
     | [Blue Rain \[L\]](https://cpi.makecir.com/scores/view/309) | 1647.20 | 84.78 | <span class="lamp lamp-fa">FA</span> |
@@ -376,7 +376,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Caldwell 99 \[L\]](https://cpi.makecir.com/scores/view/617) | 1605.57 | 105.94 | <span class="lamp lamp-np">NP</span> |
     | [DEADHEAT](https://cpi.makecir.com/scores/view/66) | 1612.73 | 65.99 | <span class="lamp lamp-hc">HC</span> |
     | [Demon March](https://cpi.makecir.com/scores/view/524) | 1627.56 | 86.59 | <span class="lamp lamp-hc">HC</span> |
-    | [Despair of ELFERIA](https://cpi.makecir.com/scores/view/151) | 1633.83 | 63.86 | <span class="lamp lamp-cl">CL</span> |
+    | [Despair of ELFERIA](https://cpi.makecir.com/scores/view/151) | 1633.83 | 63.86 | <span class="lamp lamp-hc">HC</span> |
     | [Devil&#039;s Gear](https://cpi.makecir.com/scores/view/122) | 1636.62 | 62.66 | <span class="lamp lamp-hc">HC</span> |
     | [Devilz Staircase](https://cpi.makecir.com/scores/view/219) | 1611.33 | 59.84 | <span class="lamp lamp-hc">HC</span> |
     | [DORNWALD ～Junge～](https://cpi.makecir.com/scores/view/90) | 1638.16 | 65.97 | <span class="lamp lamp-hc">HC</span> |
