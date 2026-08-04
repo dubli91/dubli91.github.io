@@ -17,9 +17,9 @@
 
     ---
 
-    **1671.36**
+    **1672.28**
 
-    추정 순위 약 8,052위
+    추정 순위 약 8,026위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.08.02**
+    **2026.08.04**
 
     프로필 개설 2026.04.01
 
@@ -57,9 +57,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 422 / 620 | 68% | <span class="cpi-bar"><span style="width:68%"></span></span> |
-| **CLEAR** | 418 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
-| **HARD**  | 416 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
+| **EASY**  | 423 / 620 | 68% | <span class="cpi-bar"><span style="width:68%"></span></span> |
+| **CLEAR** | 419 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
+| **HARD**  | 417 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -73,10 +73,10 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 29 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 387 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 388 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 2 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 4 |
-| <span class="lamp lamp-ac">AC</span> | Assist Clear | 8 |
+| <span class="lamp lamp-ac">AC</span> | Assist Clear | 7 |
 | <span class="lamp lamp-fa">FA</span> | Failed | 53 |
 | <span class="lamp lamp-np">NP</span> | Not Played | 137 |
 
@@ -92,7 +92,7 @@
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 216 | 93% |
-    | 1600~1650 | 100 | 93 | 93% |
+    | 1600~1650 | 100 | 94 | 94% |
     | 1650~1700 | 70 | 32 | 46% |
     | 1700+ | 131 | 1 | 1% |
     | 미집계 | 18 | 8 | 44% |
@@ -417,7 +417,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Resonant](https://cpi.makecir.com/scores/view/561) | 1619.97 | 95.06 | <span class="lamp lamp-hc">HC</span> |
     | [reunion](https://cpi.makecir.com/scores/view/280) | 1646.94 | 67.60 | <span class="lamp lamp-hc">HC</span> |
     | [rommmo](https://cpi.makecir.com/scores/view/378) | 1607.22 | 77.12 | <span class="lamp lamp-hc">HC</span> |
-    | [SCREW // owo // SCREW](https://cpi.makecir.com/scores/view/15) | 1642.71 | 137.87 | <span class="lamp lamp-ac">AC</span> |
+    | [SCREW // owo // SCREW](https://cpi.makecir.com/scores/view/15) | 1642.71 | 137.87 | <span class="lamp lamp-hc">HC</span> |
     | [Scripted Connection⇒ A mix \[L\]](https://cpi.makecir.com/scores/view/447) | 1630.95 | 87.78 | <span class="lamp lamp-hc">HC</span> |
     | [Session 9 -Chronicles-](https://cpi.makecir.com/scores/view/277) | 1603.89 | 68.51 | <span class="lamp lamp-hc">HC</span> |
     | [Slipstream](https://cpi.makecir.com/scores/view/78) | 1610.76 | 64.58 | <span class="lamp lamp-hc">HC</span> |
