@@ -17,9 +17,9 @@
 
     ---
 
-    **1678.16**
+    **1682.92**
 
-    추정 순위 약 7,867위
+    추정 순위 약 7,702위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.08.06**
+    **2026.08.10**
 
     프로필 개설 2026.04.01
 
@@ -57,9 +57,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 423 / 620 | 68% | <span class="cpi-bar"><span style="width:68%"></span></span> |
-| **CLEAR** | 419 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
-| **HARD**  | 417 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
+| **EASY**  | 424 / 620 | 68% | <span class="cpi-bar"><span style="width:68%"></span></span> |
+| **CLEAR** | 420 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
+| **HARD**  | 418 / 620 | 67% | <span class="cpi-bar"><span style="width:67%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -72,13 +72,13 @@
 | 램프 | 의미 | 곡 수 |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 37 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 380 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 42 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 376 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 2 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 4 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 7 |
 | <span class="lamp lamp-fa">FA</span> | Failed | 53 |
-| <span class="lamp lamp-np">NP</span> | Not Played | 137 |
+| <span class="lamp lamp-np">NP</span> | Not Played | 136 |
 
 <!-- cpi:lamps:end -->
 
@@ -92,7 +92,7 @@
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 216 | 93% |
-    | 1600~1650 | 100 | 94 | 94% |
+    | 1600~1650 | 100 | 95 | 95% |
     | 1650~1700 | 70 | 32 | 46% |
     | 1700+ | 131 | 1 | 1% |
     | 미집계 | 18 | 8 | 44% |
@@ -347,7 +347,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [ピアノ協奏曲第1番”蠍火” (BlackY Remix)](https://cpi.makecir.com/scores/view/23) | 1659.84 | 85.10 | <span class="lamp lamp-hc">HC</span> |
     | [ピアノ協奏曲第１番”蠍火”](https://cpi.makecir.com/scores/view/349) | 1660.44 | 78.33 | <span class="lamp lamp-np">NP</span> |
     | [二人ノ廃城幽踊宴](https://cpi.makecir.com/scores/view/401) | 1693.79 | 99.61 | <span class="lamp lamp-fa">FA</span> |
-    | [君のハートにロックオン \[L\]](https://cpi.makecir.com/scores/view/435) | 1693.64 | 104.83 | <span class="lamp lamp-np">NP</span> |
+    | [君のハートにロックオン \[L\]](https://cpi.makecir.com/scores/view/435) | 1693.64 | 104.83 | <span class="lamp lamp-fa">FA</span> |
     | [東京神話](https://cpi.makecir.com/scores/view/84) | 1663.80 | 72.36 | <span class="lamp lamp-ac">AC</span> |
     | [灼熱Beach Side Bunny (かめりあ&#039;s &quot;Summertime D&#039;n&#039;B&quot; Remix)](https://cpi.makecir.com/scores/view/536) | 1664.40 | 192.67 | <span class="lamp lamp-hc">HC</span> |
     | [真 地獄超特急 -HELL or HELL-](https://cpi.makecir.com/scores/view/142) | 1694.42 | 122.56 | <span class="lamp lamp-fa">FA</span> |
@@ -445,7 +445,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [世界の果てに約束の凱歌を -ReUnion-](https://cpi.makecir.com/scores/view/380) | 1640.12 | 82.10 | <span class="lamp lamp-hc">HC</span> |
     | [今宵、ロマンス横丁。](https://cpi.makecir.com/scores/view/566) | 1624.62 | 77.71 | <span class="lamp lamp-hc">HC</span> |
     | [伐折羅-vajra-](https://cpi.makecir.com/scores/view/402) | 1637.40 | 82.26 | <span class="lamp lamp-hc">HC</span> |
-    | [天空の夜明け](https://cpi.makecir.com/scores/view/266) | 1649.79 | 80.20 | <span class="lamp lamp-fa">FA</span> |
+    | [天空の夜明け](https://cpi.makecir.com/scores/view/266) | 1649.79 | 80.20 | <span class="lamp lamp-hc">HC</span> |
     | [子供の落書き帳](https://cpi.makecir.com/scores/view/267) | 1610.03 | 62.90 | <span class="lamp lamp-hc">HC</span> |
     | [少年は空を辿る](https://cpi.makecir.com/scores/view/182) | 1602.03 | 54.36 | <span class="lamp lamp-hc">HC</span> |
     | [廿 \[L\]](https://cpi.makecir.com/scores/view/210) | 1621.93 | 102.78 | <span class="lamp lamp-hc">HC</span> |
@@ -709,7 +709,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | 곡명 | 適正CPI | 個人差度 | 램프 |
     | --- | ---: | ---: | :---: |
     | [#CMFLG](https://cpi.makecir.com/scores/view/505) | 1499.95 | 95.92 | <span class="lamp lamp-ex">EX</span> |
-    | [AA](https://cpi.makecir.com/scores/view/343) | 1476.04 | 65.88 | <span class="lamp lamp-hc">HC</span> |
+    | [AA](https://cpi.makecir.com/scores/view/343) | 1476.04 | 65.88 | <span class="lamp lamp-ex">EX</span> |
     | [Adularia](https://cpi.makecir.com/scores/view/186) | 1499.99 | 89.61 | <span class="lamp lamp-hc">HC</span> |
     | [Arca](https://cpi.makecir.com/scores/view/64) | 1484.11 | 92.17 | <span class="lamp lamp-hc">HC</span> |
     | [BIGソムタム](https://cpi.makecir.com/scores/view/372) | 1458.81 | 115.27 | <span class="lamp lamp-ex">EX</span> |
@@ -719,7 +719,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [F](https://cpi.makecir.com/scores/view/252) | 1454.02 | 73.57 | <span class="lamp lamp-ex">EX</span> |
     | [FIRE FIRE](https://cpi.makecir.com/scores/view/321) | 1487.79 | 74.84 | <span class="lamp lamp-hc">HC</span> |
     | [glacia](https://cpi.makecir.com/scores/view/488) | 1452.64 | 123.15 | <span class="lamp lamp-ex">EX</span> |
-    | [Hat Surprise (Season 2)](https://cpi.makecir.com/scores/view/458) | 1487.92 | 90.50 | <span class="lamp lamp-hc">HC</span> |
+    | [Hat Surprise (Season 2)](https://cpi.makecir.com/scores/view/458) | 1487.92 | 90.50 | <span class="lamp lamp-ex">EX</span> |
     | [Highcharge Divolt](https://cpi.makecir.com/scores/view/126) | 1480.92 | 106.54 | <span class="lamp lamp-ex">EX</span> |
     | [invoker](https://cpi.makecir.com/scores/view/207) | 1455.60 | 89.00 | <span class="lamp lamp-ex">EX</span> |
     | [KING \[L\]](https://cpi.makecir.com/scores/view/540) | 1475.23 | 101.66 | <span class="lamp lamp-ex">EX</span> |
@@ -732,7 +732,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Nothing but Theory \[L\]](https://cpi.makecir.com/scores/view/626) | 1474.90 | 95.59 | <span class="lamp lamp-np">NP</span> |
     | [Parvati](https://cpi.makecir.com/scores/view/399) | 1498.90 | 96.05 | <span class="lamp lamp-hc">HC</span> |
     | [Rampage](https://cpi.makecir.com/scores/view/76) | 1456.22 | 95.97 | <span class="lamp lamp-hc">HC</span> |
-    | [Rave Cannon](https://cpi.makecir.com/scores/view/100) | 1485.70 | 78.46 | <span class="lamp lamp-hc">HC</span> |
+    | [Rave Cannon](https://cpi.makecir.com/scores/view/100) | 1485.70 | 78.46 | <span class="lamp lamp-ex">EX</span> |
     | [RED ZONE \[L\]](https://cpi.makecir.com/scores/view/345) | 1471.74 | 92.37 | <span class="lamp lamp-hc">HC</span> |
     | [SCREAM SQUAD](https://cpi.makecir.com/scores/view/338) | 1497.87 | 125.64 | <span class="lamp lamp-hc">HC</span> |
     | [Sirius](https://cpi.makecir.com/scores/view/529) | 1485.77 | 90.96 | <span class="lamp lamp-hc">HC</span> |
@@ -741,8 +741,8 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Symmetry](https://cpi.makecir.com/scores/view/167) | 1450.50 | 81.29 | <span class="lamp lamp-ex">EX</span> |
     | [The Onlyonez](https://cpi.makecir.com/scores/view/564) | 1499.51 | 143.17 | <span class="lamp lamp-ex">EX</span> |
     | [The Sampling Paradise](https://cpi.makecir.com/scores/view/259) | 1457.47 | 71.39 | <span class="lamp lamp-ex">EX</span> |
-    | [TIEFSEE](https://cpi.makecir.com/scores/view/168) | 1490.43 | 64.40 | <span class="lamp lamp-hc">HC</span> |
-    | [Todestrieb](https://cpi.makecir.com/scores/view/261) | 1464.10 | 67.95 | <span class="lamp lamp-hc">HC</span> |
+    | [TIEFSEE](https://cpi.makecir.com/scores/view/168) | 1490.43 | 64.40 | <span class="lamp lamp-ex">EX</span> |
+    | [Todestrieb](https://cpi.makecir.com/scores/view/261) | 1464.10 | 67.95 | <span class="lamp lamp-ex">EX</span> |
     | [TROOPERS](https://cpi.makecir.com/scores/view/316) | 1483.35 | 133.69 | <span class="lamp lamp-hc">HC</span> |
     | [True Blue](https://cpi.makecir.com/scores/view/234) | 1498.84 | 63.52 | <span class="lamp lamp-hc">HC</span> |
     | [V](https://cpi.makecir.com/scores/view/360) | 1494.30 | 101.94 | <span class="lamp lamp-hc">HC</span> |
