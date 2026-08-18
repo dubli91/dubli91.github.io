@@ -64,12 +64,5 @@ hide:
     <!-- TODO: 실제 GitHub 주소 -->
     [github.com/dubli91](https://github.com/dubli91)
 
--   :material-post:{ .lg .middle } __기술 블로그__
-
-    ---
-
-    <!-- TODO: 이력서 PDF를 docs/ 아래에 넣고 경로 연결 (예: assets/resume.pdf) -->
-    [PDF 다운로드](#)
-
 </div>
 
