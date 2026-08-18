@@ -3,6 +3,7 @@
 
 - 표준 라이브러리만 사용 (GitHub Actions 에서 별도 설치 없이 실행)
 - rhythm.md 안의 <!-- cpi:NAME:start --> ... <!-- cpi:NAME:end --> 블록만 교체
+- docs/rhythm.en.md 가 있으면 영어 라벨로 같은 블록을 함께 갱신
 - 파싱 실패 시 즉시 종료(비정상 데이터로 페이지를 덮어쓰지 않음)
 """
 
@@ -21,6 +22,7 @@ TABLE_URL = f"{BASE_URL}/users/tables/13196"
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 RHYTHM_MD = REPO_ROOT / "docs" / "rhythm.md"
+RHYTHM_EN_MD = REPO_ROOT / "docs" / "rhythm.en.md"
 
 # 곡 셀 배경색 → 클리어 램프
 COLOR_LAMP = {
@@ -46,10 +48,73 @@ LAMP_MEANING = {
     "NP": "Not Played",
 }
 
-DAN_NOTE = {
-    "中伝": "중급자 티어",
-    "皆伝": "최고 단위",
-    "十段": "상급자 관문",
+# 언어별 라벨 (ko: docs/rhythm.md, en: docs/rhythm.en.md)
+LABELS = {
+    "ko": {
+        "dan_note": {"中伝": "중급자 티어", "皆伝": "최고 단위", "十段": "상급자 관문"},
+        "dan_note_default": "beatmania IIDX SP 단위",
+        "dan_title": "段位 (단위)",
+        "player": "플레이어",
+        "updated": "갱신",
+        "rank": lambda rank: f"추정 순위 약 {rank:,}위",
+        "created": lambda created: f"프로필 개설 {created}",
+        "clears_intro": lambda total: f"대상 곡 **{total}곡** 기준. (적정 CPI 표 범위 내)",
+        "clears_header": "| 난이도 | 클리어 | 비율 | 진행도 |",
+        "lamps_header": "| 램프 | 의미 | 곡 수 |",
+        "bands_title": "適正CPI 구간별 집계 보기 (펼치기)",
+        "bands_intro": (
+            "클리어 현황을 CPI의 **適正CPI** 구간별로 묶은 결과입니다.\n"
+            "    하드 클리어는 HC 이상(FC·EX 포함) 램프 기준입니다."
+        ),
+        "bands_header": "| 適正CPI | 곡 수 | 하드 클리어 | 클리어율 |",
+        "uncounted": "미집계",
+        "bands_footer": lambda misses: f"*適正CPI 미산출(算出対象外) {misses}곡은 '미집계'로 분류.*",
+        "full_title": lambda total: f"HARD 곡별 전체 표 펼치기 ({total}곡)",
+        "full_intro": (
+            "원본 표의 곡별 **適正CPI / 個人差度**와 현재 램프입니다."
+            " 구간은 원본과 같이 適正CPI 내림차순입니다."
+        ),
+        "full_band": lambda label: f"適正CPI {label}",
+        "full_band_uncounted": lambda label: f"{label} (適正CPI 미산출)",
+        "song_count": lambda n: f"{n}곡",
+        "full_header": "| 곡명 | 適正CPI | 個人差度 | 램프 |",
+    },
+    "en": {
+        "dan_note": {
+            "中伝": "Chuuden — upper-intermediate tier",
+            "皆伝": "Kaiden — the highest dan",
+            "十段": "10th dan — the advanced gate",
+        },
+        "dan_note_default": "beatmania IIDX SP dan rank",
+        "dan_title": "段位 (Dan)",
+        "player": "Player",
+        "updated": "Updated",
+        "rank": lambda rank: f"Estimated rank ~#{rank:,}",
+        "created": lambda created: f"Profile created {created}",
+        "clears_intro": lambda total: f"Out of **{total} songs** in the CPI table range.",
+        "clears_header": "| Difficulty | Cleared | Rate | Progress |",
+        "lamps_header": "| Lamp | Meaning | Songs |",
+        "bands_title": "Clear stats by 適正CPI band (expand)",
+        "bands_intro": (
+            "Clear counts grouped by CPI's **適正CPI** (recommended CPI) bands.\n"
+            "    Hard clears count lamps HC and above (including FC and EX)."
+        ),
+        "bands_header": "| 適正CPI | Songs | Hard clears | Clear rate |",
+        "uncounted": "Unrated",
+        "bands_footer": lambda misses: (
+            f"*{misses} songs without a 適正CPI value (算出対象外) are grouped as 'Unrated'.*"
+        ),
+        "full_title": lambda total: f"Full HARD song table (expand, {total} songs)",
+        "full_intro": (
+            "Per-song **適正CPI / 個人差度** (recommended CPI / player-dependence) from the"
+            " source table, with current lamps. Bands are in descending 適正CPI order,"
+            " same as the source."
+        ),
+        "full_band": lambda label: f"適正CPI {label}",
+        "full_band_uncounted": lambda label: f"{label} (no 適正CPI value)",
+        "song_count": lambda n: f"{n} songs",
+        "full_header": "| Song | 適正CPI | 個人差度 | Lamp |",
+    },
 }
 
 
@@ -209,8 +274,8 @@ def lamp_span(lamp: str) -> str:
     return f'<span class="lamp lamp-{lamp.lower()}">{lamp}</span>'
 
 
-def build_profile(p: dict) -> str:
-    dan_note = DAN_NOTE.get(p["dan"], "beatmania IIDX SP 단위")
+def build_profile(p: dict, L: dict) -> str:
+    dan_note = L["dan_note"].get(p["dan"], L["dan_note_default"])
     return f"""\
 <div class="grid cards" markdown>
 
@@ -220,9 +285,9 @@ def build_profile(p: dict) -> str:
 
     **{p['cpi']}**
 
-    추정 순위 약 {p['rank']:,}위
+    {L['rank'](p['rank'])}
 
--   :material-medal:{{ .lg .middle }} __段位 (단위)__
+-   :material-medal:{{ .lg .middle }} __{L['dan_title']}__
 
     ---
 
@@ -230,7 +295,7 @@ def build_profile(p: dict) -> str:
 
     {dan_note}
 
--   :material-account:{{ .lg .middle }} __플레이어__
+-   :material-account:{{ .lg .middle }} __{L['player']}__
 
     ---
 
@@ -238,18 +303,18 @@ def build_profile(p: dict) -> str:
 
     ID {p['id']}
 
--   :material-update:{{ .lg .middle }} __갱신__
+-   :material-update:{{ .lg .middle }} __{L['updated']}__
 
     ---
 
     **{p['updated']}**
 
-    프로필 개설 {p['created']}
+    {L['created'](p['created'])}
 
 </div>"""
 
 
-def build_clears(ach: dict) -> str:
+def build_clears(ach: dict, L: dict) -> str:
     rows = []
     for key, label in (("easy", "EASY"), ("clear", "CLEAR"), ("hard", "HARD")):
         a = ach[key]
@@ -257,26 +322,26 @@ def build_clears(ach: dict) -> str:
         rows.append(f'| **{label}**{" " * (5 - len(label))} | {a["done"]} / {a["total"]} | {a["pct"]}% | {bar} |')
     body = "\n".join(rows)
     return f"""\
-대상 곡 **{ach['total']}곡** 기준. (적정 CPI 표 범위 내)
+{L['clears_intro'](ach['total'])}
 
-| 난이도 | 클리어 | 비율 | 진행도 |
+{L['clears_header']}
 | --- | ---: | ---: | --- |
 {body}"""
 
 
-def build_lamps(lamp_counts: Counter) -> str:
+def build_lamps(lamp_counts: Counter, L: dict) -> str:
     rows = [
         f"| {lamp_span(lamp)} | {LAMP_MEANING[lamp]} | {lamp_counts.get(lamp, 0)} |"
         for lamp in LAMP_ORDER
     ]
     body = "\n".join(rows)
     return f"""\
-| 램프 | 의미 | 곡 수 |
+{L['lamps_header']}
 | :---: | --- | ---: |
 {body}"""
 
 
-def build_bands_summary(bands: list[dict]) -> str:
+def build_bands_summary(bands: list[dict], L: dict) -> str:
     """適正CPI 50 단위 구간을 기존 페이지의 굵은 구간으로 재집계."""
     hard_lamps = {"FC", "EX", "HC"}
     buckets: dict[str, list[int]] = {}
@@ -295,7 +360,7 @@ def build_bands_summary(bands: list[dict]) -> str:
 
     for band in bands:
         lo_m = re.match(r"(\d+)", band["label"])
-        key = bucket_key(int(lo_m.group(1))) if lo_m else "미집계"
+        key = bucket_key(int(lo_m.group(1))) if lo_m else "uncounted"
         if lo_m and int(lo_m.group(1)) < 1500:
             lows.append(int(lo_m.group(1)))
         n = len(band["songs"])
@@ -306,7 +371,7 @@ def build_bands_summary(bands: list[dict]) -> str:
 
     low_label = f"{min(lows)}~1500" if lows else "~1500"
     order = [("low", low_label), ("1500~1600", "1500~1600"), ("1600~1650", "1600~1650"),
-             ("1650~1700", "1650~1700"), ("1700+", "1700+"), ("미집계", "미집계")]
+             ("1650~1700", "1650~1700"), ("1700+", "1700+"), ("uncounted", L["uncounted"])]
     rows = []
     for key, label in order:
         if key not in buckets:
@@ -315,34 +380,32 @@ def build_bands_summary(bands: list[dict]) -> str:
         pct = f"{round(100 * hc / n)}%" if n else "—"
         rows.append(f"    | {label} | {n} | {hc} | {pct} |")
     body = "\n".join(rows)
-    misses = buckets.get("미집계", [0, 0])[0]
+    misses = buckets.get("uncounted", [0, 0])[0]
     return f"""\
-??? note "適正CPI 구간별 집계 보기 (펼치기)"
-    클리어 현황을 CPI의 **適正CPI** 구간별로 묶은 결과입니다.
-    하드 클리어는 HC 이상(FC·EX 포함) 램프 기준입니다.
+??? note "{L['bands_title']}"
+    {L['bands_intro']}
 
-    | 適正CPI | 곡 수 | 하드 클리어 | 클리어율 |
+    {L['bands_header']}
     | --- | ---: | ---: | ---: |
 {body}
 
-    *適正CPI 미산출(算出対象外) {misses}곡은 '미집계'로 분류.*"""
+    {L['bands_footer'](misses)}"""
 
 
-def build_full_table(bands: list[dict], total: int) -> str:
+def build_full_table(bands: list[dict], total: int, L: dict) -> str:
     lines = [
-        f'??? note "HARD 곡별 전체 표 펼치기 ({total}곡)"',
-        f"    원본 표의 곡별 **適正CPI / 個人差度**와 현재 램프입니다."
-        f" 구간은 원본과 같이 適正CPI 내림차순입니다.",
+        f'??? note "{L["full_title"](total)}"',
+        f"    {L['full_intro']}",
         "",
     ]
     for band in bands:
         if not band["songs"]:
             continue
         label = band["label"]
-        title = f"適正CPI {label}" if label[0].isdigit() else f"{label} (適正CPI 미산출)"
-        lines.append(f"    **{title}** · {len(band['songs'])}곡")
+        title = L["full_band"](label) if label[0].isdigit() else L["full_band_uncounted"](label)
+        lines.append(f"    **{title}** · {L['song_count'](len(band['songs']))}")
         lines.append("")
-        lines.append("    | 곡명 | 適正CPI | 個人差度 | 램프 |")
+        lines.append(f"    {L['full_header']}")
         lines.append("    | --- | ---: | ---: | :---: |")
         for s in band["songs"]:
             cpi = s["cpi"] if s["cpi"] != "-" else "—"
@@ -385,13 +448,18 @@ def main() -> None:
     if hard_done != ach["hard"]["done"]:
         die(f"HARD 램프 합계 {hard_done} ≠ 達成済 {ach['hard']['done']}")
 
-    text = RHYTHM_MD.read_text(encoding="utf-8")
-    text = replace_block(text, "profile", build_profile(profile))
-    text = replace_block(text, "clears", build_clears(ach))
-    text = replace_block(text, "lamps", build_lamps(lamp_counts))
-    text = replace_block(text, "bands", build_bands_summary(bands))
-    text = replace_block(text, "full", build_full_table(bands, ach["total"]))
-    RHYTHM_MD.write_text(text, encoding="utf-8")
+    targets = [(RHYTHM_MD, LABELS["ko"])]
+    if RHYTHM_EN_MD.exists():
+        targets.append((RHYTHM_EN_MD, LABELS["en"]))
+
+    for path, L in targets:
+        text = path.read_text(encoding="utf-8")
+        text = replace_block(text, "profile", build_profile(profile, L))
+        text = replace_block(text, "clears", build_clears(ach, L))
+        text = replace_block(text, "lamps", build_lamps(lamp_counts, L))
+        text = replace_block(text, "bands", build_bands_summary(bands, L))
+        text = replace_block(text, "full", build_full_table(bands, ach["total"], L))
+        path.write_text(text, encoding="utf-8")
 
     print(f"updated: CPI {profile['cpi']} / {ach['total']}곡 / 갱신일 {profile['updated']}")
 

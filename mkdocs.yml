@@ -12,7 +12,7 @@ theme:
     text: Noto Sans KR
     code: JetBrains Mono
   features:
-    - navigation.instant
+    # navigation.instant 는 i18n 언어 셀렉터의 페이지 유지 링크와 호환되지 않아 제거
     - navigation.tracking
     - navigation.tabs
     - navigation.sections
@@ -93,6 +93,27 @@ markdown_extensions:
 plugins:
   - search:
       lang: ko
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: ko
+          name: 한국어
+          default: true
+          build: true
+        - locale: en
+          name: English
+          build: true
+          site_description: ""
+          nav_translations:
+            소개: About
+            기술 & 프로젝트: Tech & Projects
+            기술 스택: Tech Stack
+            프로젝트: Projects
+            전체 보기: All Projects
+            리듬게임: Rhythm Games
   - minify:
       minify_html: true
 
@@ -102,15 +123,7 @@ extra_css:
 extra:
   # 푸터의 "Made with Material for MkDocs" 문구 제거
   generator: false
-  # 다국어 셀렉터 (헤더 우측에 언어 드롭다운 표시)
-  # ⚠ English 는 아직 번역본이 없어 404 입니다. 실제 다국어는 하단 안내 참고.
-  alternate:
-    - name: 한국어
-      link: /
-      lang: ko
-    - name: English
-      link: /en/
-      lang: en
+  # 언어 셀렉터는 i18n 플러그인(reconfigure_material)이 자동 생성
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/dubli91

@@ -1,13 +1,15 @@
-# 리듬게임 (취미)
+# Rhythm Games (Hobby)
 
-> 코드 밖에서는 **beatmania IIDX (SP)**를 즐깁니다.
-> 꾸준함과 손가락 정확도를 수치로 관리하는 게 개발과 닮아서 좋아합니다.
-> 실력 지표는 [CPI](https://cpi.makecir.com/users/tables/13196){target=_blank}로 추적합니다.
+> Outside of code, I play **beatmania IIDX (SP)**.
+> I like how it rewards consistency and finger accuracy tracked as numbers — a lot like software work.
+> I track my skill rating with [CPI](https://cpi.makecir.com/users/tables/13196){target=_blank}.
 
-<!-- 이 페이지의 표들은 .github/workflows/update-rhythm.yml 이 매일 22:00 KST에 자동 갱신합니다.
-     cpi:*:start ~ cpi:*:end 마커 사이는 손으로 수정하지 마세요 (다음 갱신 때 덮어써집니다). -->
+<!-- The tables on this page are refreshed automatically every day at 22:00 KST
+     by .github/workflows/update-rhythm.yml.
+     Do not hand-edit anything between the cpi:*:start ~ cpi:*:end markers
+     (it will be overwritten on the next refresh). -->
 
-## 프로필 요약
+## Profile Summary
 
 <!-- cpi:profile:start -->
 
@@ -19,17 +21,17 @@
 
     **1696.83**
 
-    추정 순위 약 7,300위
+    Estimated rank ~#7,300
 
--   :material-medal:{ .lg .middle } __段位 (단위)__
+-   :material-medal:{ .lg .middle } __段位 (Dan)__
 
     ---
 
     **SP 中伝**
 
-    중급자 티어
+    Chuuden — upper-intermediate tier
 
--   :material-account:{ .lg .middle } __플레이어__
+-   :material-account:{ .lg .middle } __Player__
 
     ---
 
@@ -37,25 +39,25 @@
 
     ID 8363-2725
 
--   :material-update:{ .lg .middle } __갱신__
+-   :material-update:{ .lg .middle } __Updated__
 
     ---
 
     **2026.08.18**
 
-    프로필 개설 2026.04.01
+    Profile created 2026.04.01
 
 </div>
 
 <!-- cpi:profile:end -->
 
-## 난이도별 클리어 현황
+## Clears by Difficulty
 
 <!-- cpi:clears:start -->
 
-대상 곡 **620곡** 기준. (적정 CPI 표 범위 내)
+Out of **620 songs** in the CPI table range.
 
-| 난이도 | 클리어 | 비율 | 진행도 |
+| Difficulty | Cleared | Rate | Progress |
 | --- | ---: | ---: | --- |
 | **EASY**  | 431 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
 | **CLEAR** | 427 / 620 | 68% | <span class="cpi-bar"><span style="width:68%"></span></span> |
@@ -63,13 +65,13 @@
 
 <!-- cpi:clears:end -->
 
-## 클리어 램프 분포
+## Clear Lamp Distribution
 
-플레이한 곡의 최고 클리어 등급(램프) 집계입니다.
+A tally of the best clear grade (lamp) for each song played.
 
 <!-- cpi:lamps:start -->
 
-| 램프 | 의미 | 곡 수 |
+| Lamp | Meaning | Songs |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 53 |
@@ -84,49 +86,49 @@
 
 <!-- cpi:bands:start -->
 
-??? note "適正CPI 구간별 집계 보기 (펼치기)"
-    클리어 현황을 CPI의 **適正CPI** 구간별로 묶은 결과입니다.
-    하드 클리어는 HC 이상(FC·EX 포함) 램프 기준입니다.
+??? note "Clear stats by 適正CPI band (expand)"
+    Clear counts grouped by CPI's **適正CPI** (recommended CPI) bands.
+    Hard clears count lamps HC and above (including FC and EX).
 
-    | 適正CPI | 곡 수 | 하드 클리어 | 클리어율 |
+    | 適正CPI | Songs | Hard clears | Clear rate |
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 216 | 93% |
     | 1600~1650 | 100 | 95 | 95% |
     | 1650~1700 | 70 | 35 | 50% |
     | 1700+ | 131 | 5 | 4% |
-    | 미집계 | 18 | 9 | 50% |
+    | Unrated | 18 | 9 | 50% |
 
-    *適正CPI 미산출(算出対象外) 18곡은 '미집계'로 분류.*
+    *18 songs without a 適正CPI value (算出対象外) are grouped as 'Unrated'.*
 
 <!-- cpi:bands:end -->
 
-## HARD 곡별 전체 표
+## Full HARD Song Table
 
-CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 밤 10시(KST)에 자동으로 갱신됩니다.
+The **complete** HARD table (適正CPI · 個人差度) from the CPI source, refreshed automatically every night at 10 PM (KST).
 
 <!-- cpi:full:start -->
 
-??? note "HARD 곡별 전체 표 펼치기 (620곡)"
-    원본 표의 곡별 **適正CPI / 個人差度**와 현재 램프입니다. 구간은 원본과 같이 適正CPI 내림차순입니다.
+??? note "Full HARD song table (expand, 620 songs)"
+    Per-song **適正CPI / 個人差度** (recommended CPI / player-dependence) from the source table, with current lamps. Bands are in descending 適正CPI order, same as the source.
 
-    **適正CPI 2150 ~ 2200** · 1곡
+    **適正CPI 2150 ~ 2200** · 1 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [ICARUS \[L\]](https://cpi.makecir.com/scores/view/311) | 2152.14 | 232.97 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 2000 ~ 2050** · 3곡
+    **適正CPI 2000 ~ 2050** · 3 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [SAMURAI-Scramble \[L\]](https://cpi.makecir.com/scores/view/411) | 2049.01 | 286.63 | <span class="lamp lamp-np">NP</span> |
     | [Skratch Education Lv-1](https://cpi.makecir.com/scores/view/605) | 2022.94 | 373.30 | <span class="lamp lamp-np">NP</span> |
     | [X-DEN](https://cpi.makecir.com/scores/view/51) | 2014.41 | 149.41 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 1950 ~ 2000** · 9곡
+    **適正CPI 1950 ~ 2000** · 9 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [Beyond Evolution](https://cpi.makecir.com/scores/view/478) | 1994.46 | 196.92 | <span class="lamp lamp-np">NP</span> |
     | [DEATH†ZIGOQ ～怒りの高速爆走野郎～ \[L\]](https://cpi.makecir.com/scores/view/572) | 1955.81 | 186.76 | <span class="lamp lamp-np">NP</span> |
@@ -138,9 +140,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [惑星鉄道](https://cpi.makecir.com/scores/view/535) | 1962.38 | 231.13 | <span class="lamp lamp-np">NP</span> |
     | [灼熱 Pt.2 Long Train Running](https://cpi.makecir.com/scores/view/141) | 1969.65 | 218.53 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 1900 ~ 1950** · 11곡
+    **適正CPI 1900 ~ 1950** · 11 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [Illegal Function Call \[L\]](https://cpi.makecir.com/scores/view/473) | 1936.39 | 185.32 | <span class="lamp lamp-np">NP</span> |
     | [Level 5](https://cpi.makecir.com/scores/view/560) | 1912.83 | 285.77 | <span class="lamp lamp-np">NP</span> |
@@ -154,18 +156,18 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [灼熱Beach Side Bunny](https://cpi.makecir.com/scores/view/282) | 1925.45 | 226.63 | <span class="lamp lamp-np">NP</span> |
     | [疾風迅雷 \[L\]](https://cpi.makecir.com/scores/view/215) | 1919.88 | 132.87 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 1850 ~ 1900** · 4곡
+    **適正CPI 1850 ~ 1900** · 4 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [EROICA](https://cpi.makecir.com/scores/view/361) | 1875.62 | 180.61 | <span class="lamp lamp-fa">FA</span> |
     | [Go Ahead!!](https://cpi.makecir.com/scores/view/93) | 1874.64 | 156.73 | <span class="lamp lamp-np">NP</span> |
     | [KAMAITACHI \[L\]](https://cpi.makecir.com/scores/view/324) | 1882.78 | 147.25 | <span class="lamp lamp-np">NP</span> |
     | [烽火連天の刃 \[L\]](https://cpi.makecir.com/scores/view/621) | 1874.31 | 196.73 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 1800 ~ 1850** · 19곡
+    **適正CPI 1800 ~ 1850** · 19 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [3y3s](https://cpi.makecir.com/scores/view/299) | 1817.28 | 130.54 | <span class="lamp lamp-np">NP</span> |
     | [Chrono Diver -PENDULUMs-](https://cpi.makecir.com/scores/view/149) | 1800.12 | 139.50 | <span class="lamp lamp-np">NP</span> |
@@ -187,9 +189,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [ディスコルディア](https://cpi.makecir.com/scores/view/393) | 1820.17 | 152.17 | <span class="lamp lamp-np">NP</span> |
     | [ピアノ独奏無言歌 &quot;灰燼&quot;](https://cpi.makecir.com/scores/view/471) | 1828.38 | 180.00 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 1750 ~ 1800** · 39곡
+    **適正CPI 1750 ~ 1800** · 39 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [#The\_Relentless \[L\]](https://cpi.makecir.com/scores/view/627) | 1790.72 | 129.70 | <span class="lamp lamp-np">NP</span> |
     | [Ambivalent Vermilia](https://cpi.makecir.com/scores/view/522) | 1782.45 | 158.87 | <span class="lamp lamp-np">NP</span> |
@@ -231,9 +233,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [表裏一体！？怪盗いいんちょの悩み \[L\]](https://cpi.makecir.com/scores/view/543) | 1776.49 | 147.94 | <span class="lamp lamp-np">NP</span> |
     | [駅猫のワルツ](https://cpi.makecir.com/scores/view/144) | 1757.46 | 104.95 | <span class="lamp lamp-np">NP</span> |
 
-    **適正CPI 1700 ~ 1750** · 45곡
+    **適正CPI 1700 ~ 1750** · 45 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [Almagest](https://cpi.makecir.com/scores/view/285) | 1706.84 | 92.90 | <span class="lamp lamp-ec">EC</span> |
     | [Anisakis -somatic mutation type&quot;Forza&quot;- \[L\]](https://cpi.makecir.com/scores/view/475) | 1707.67 | 96.78 | <span class="lamp lamp-np">NP</span> |
@@ -281,9 +283,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [蛇神 \[L\]](https://cpi.makecir.com/scores/view/631) | 1746.49 | 116.18 | <span class="lamp lamp-np">NP</span> |
     | [音楽](https://cpi.makecir.com/scores/view/248) | 1732.27 | 118.67 | <span class="lamp lamp-fa">FA</span> |
 
-    **適正CPI 1650 ~ 1700** · 70곡
+    **適正CPI 1650 ~ 1700** · 70 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [-65℃](https://cpi.makecir.com/scores/view/386) | 1697.47 | 99.16 | <span class="lamp lamp-np">NP</span> |
     | [2 Beasts Unchained](https://cpi.makecir.com/scores/view/415) | 1650.36 | 105.38 | <span class="lamp lamp-hc">HC</span> |
@@ -356,9 +358,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [金野火織の金色提言](https://cpi.makecir.com/scores/view/59) | 1676.07 | 89.80 | <span class="lamp lamp-fa">FA</span> |
     | [閠槞彁の願い](https://cpi.makecir.com/scores/view/382) | 1650.58 | 80.20 | <span class="lamp lamp-hc">HC</span> |
 
-    **適正CPI 1600 ~ 1650** · 100곡
+    **適正CPI 1600 ~ 1650** · 100 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [1116](https://cpi.makecir.com/scores/view/591) | 1625.56 | 97.75 | <span class="lamp lamp-np">NP</span> |
     | [199024club -Re:BounceKiller-](https://cpi.makecir.com/scores/view/117) | 1621.46 | 205.27 | <span class="lamp lamp-hc">HC</span> |
@@ -461,9 +463,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [魅惑のYUMMYスイーツ](https://cpi.makecir.com/scores/view/365) | 1617.14 | 88.06 | <span class="lamp lamp-hc">HC</span> |
     | [魔法のかくれんぼ](https://cpi.makecir.com/scores/view/383) | 1617.24 | 139.16 | <span class="lamp lamp-hc">HC</span> |
 
-    **適正CPI 1550 ~ 1600** · 123곡
+    **適正CPI 1550 ~ 1600** · 123 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [A MINSTREL ～ ver. short-scape ～ \[L\]](https://cpi.makecir.com/scores/view/629) | 1567.38 | 116.69 | <span class="lamp lamp-np">NP</span> |
     | [AA -rebuild-](https://cpi.makecir.com/scores/view/61) | 1568.81 | 65.25 | <span class="lamp lamp-hc">HC</span> |
@@ -589,9 +591,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [神謳 -RESONANCE-](https://cpi.makecir.com/scores/view/85) | 1582.99 | 63.40 | <span class="lamp lamp-hc">HC</span> |
     | [龍と少女とデコヒーレンス \[L\]](https://cpi.makecir.com/scores/view/249) | 1574.63 | 62.70 | <span class="lamp lamp-hc">HC</span> |
 
-    **適正CPI 1500 ~ 1550** · 110곡
+    **適正CPI 1500 ~ 1550** · 110 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [#MAGiCVLGiRL\_TRVP\_B3VTZ](https://cpi.makecir.com/scores/view/86) | 1532.20 | 86.20 | <span class="lamp lamp-hc">HC</span> |
     | [ACT0](https://cpi.makecir.com/scores/view/521) | 1514.82 | 86.61 | <span class="lamp lamp-hc">HC</span> |
@@ -704,9 +706,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [電光](https://cpi.makecir.com/scores/view/538) | 1514.58 | 105.09 | <span class="lamp lamp-hc">HC</span> |
     | [龍王の霊廟(Mausoleum Of The Primal Dragon) \[L\]](https://cpi.makecir.com/scores/view/494) | 1543.90 | 84.42 | <span class="lamp lamp-hc">HC</span> |
 
-    **適正CPI 1450 ~ 1500** · 49곡
+    **適正CPI 1450 ~ 1500** · 49 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [#CMFLG](https://cpi.makecir.com/scores/view/505) | 1499.95 | 95.92 | <span class="lamp lamp-ex">EX</span> |
     | [AA](https://cpi.makecir.com/scores/view/343) | 1476.04 | 65.88 | <span class="lamp lamp-ex">EX</span> |
@@ -758,9 +760,9 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [雪月花](https://cpi.makecir.com/scores/view/353) | 1453.19 | 92.70 | <span class="lamp lamp-hc">HC</span> |
     | [黒髪乱れし修羅となりて](https://cpi.makecir.com/scores/view/283) | 1459.45 | 77.59 | <span class="lamp lamp-hc">HC</span> |
 
-    **適正CPI 1400 ~ 1450** · 15곡
+    **適正CPI 1400 ~ 1450** · 15 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [A](https://cpi.makecir.com/scores/view/358) | 1423.68 | 150.80 | <span class="lamp lamp-hc">HC</span> |
     | [Apocalypse](https://cpi.makecir.com/scores/view/88) | 1438.86 | 99.99 | <span class="lamp lamp-ex">EX</span> |
@@ -778,18 +780,18 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [残像ニ繋ガレタ追憶ノHIDEAWAY](https://cpi.makecir.com/scores/view/568) | 1403.45 | 122.43 | <span class="lamp lamp-ex">EX</span> |
     | [紅牡丹](https://cpi.makecir.com/scores/view/183) | 1445.16 | 73.63 | <span class="lamp lamp-ex">EX</span> |
 
-    **適正CPI 1350 ~ 1400** · 4곡
+    **適正CPI 1350 ~ 1400** · 4 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [gigadelic \[H\]](https://cpi.makecir.com/scores/view/346) | 1365.55 | 167.01 | <span class="lamp lamp-hc">HC</span> |
     | [Primitive Vibes](https://cpi.makecir.com/scores/view/13) | 1388.73 | 142.51 | <span class="lamp lamp-ex">EX</span> |
     | [SPECIAL SUMMER CAMPAIGN!](https://cpi.makecir.com/scores/view/276) | 1385.11 | 112.05 | <span class="lamp lamp-ex">EX</span> |
     | [千年ノ理](https://cpi.makecir.com/scores/view/179) | 1386.20 | 101.72 | <span class="lamp lamp-ex">EX</span> |
 
-    **算出対象外 (適正CPI 미산출)** · 18곡
+    **算出対象外 (no 適正CPI value)** · 18 songs
 
-    | 곡명 | 適正CPI | 個人差度 | 램프 |
+    | Song | 適正CPI | 個人差度 | Lamp |
     | --- | ---: | ---: | :---: |
     | [2 Be Continued](https://cpi.makecir.com/scores/view/580) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [chaplet -IIDX re:build-](https://cpi.makecir.com/scores/view/588) | — | — | <span class="lamp lamp-hc">HC</span> |
@@ -811,6 +813,3 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [聖人の塔 \[L\]](https://cpi.makecir.com/scores/view/630) | — | — | <span class="lamp lamp-np">NP</span> |
 
 <!-- cpi:full:end -->
-
-[:material-table: 원본 HARD 표](https://cpi.makecir.com/users/tables/13196#hard){ .md-button target=_blank }
-[:material-open-in-new: 전체 프로필](https://cpi.makecir.com/users/tables/13196){ .md-button target=_blank }
