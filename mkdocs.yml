@@ -114,6 +114,9 @@ plugins:
             프로젝트: Projects
             전체 보기: All Projects
             IIDX: IIDX
+  - minify:
+      minify_html: true
+extra_css:
   - stylesheets/extra.css
 
 extra:
