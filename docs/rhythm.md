@@ -1,7 +1,6 @@
-# 리듬게임 (취미)
+# beatmania IIDX (취미)
 
-> 코드 밖에서는 **beatmania IIDX (SP)**를 즐깁니다.
-> 꾸준함과 손가락 정확도를 수치로 관리하는 게 개발과 닮아서 좋아합니다.
+> **beatmania IIDX (SP)**를 즐깁니다.
 > 실력 지표는 [CPI](https://cpi.makecir.com/users/tables/13196){target=_blank}로 추적합니다.
 
 <!-- 이 페이지의 표들은 .github/workflows/update-rhythm.yml 이 매일 22:00 KST에 자동 갱신합니다.

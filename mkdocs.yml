@@ -67,7 +67,7 @@ nav:
       - blog/posts/heap-remove-middle-element.md
       - blog/posts/main-overriding-overloading.md
       - blog/posts/spring-exception-handling.md
-  - 리듬게임: rhythm.md
+  - IIDX: rhythm.md
 
 markdown_extensions:
   - admonition
@@ -113,7 +113,7 @@ plugins:
             기술 스택: Tech Stack
             프로젝트: Projects
             전체 보기: All Projects
-            리듬게임: Rhythm Games
+            IIDX: Rhythm Games
   - minify:
       minify_html: true
 
