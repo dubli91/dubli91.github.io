@@ -1,13 +1,7 @@
-# Rhythm Games (Hobby)
+# IIDX (Hobby)
 
 > Outside of code, I play **beatmania IIDX (SP)**.
-> I like how it rewards consistency and finger accuracy tracked as numbers — a lot like software work.
 > I track my skill rating with [CPI](https://cpi.makecir.com/users/tables/13196){target=_blank}.
-
-<!-- The tables on this page are refreshed automatically every day at 22:00 KST
-     by .github/workflows/update-rhythm.yml.
-     Do not hand-edit anything between the cpi:*:start ~ cpi:*:end markers
-     (it will be overwritten on the next refresh). -->
 
 ## Profile Summary
 
