@@ -113,11 +113,7 @@ plugins:
             기술 스택: Tech Stack
             프로젝트: Projects
             전체 보기: All Projects
-            IIDX: Rhythm Games
-  - minify:
-      minify_html: true
-
-extra_css:
+            IIDX: IIDX
   - stylesheets/extra.css
 
 extra:
