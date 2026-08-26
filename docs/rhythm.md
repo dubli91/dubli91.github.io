@@ -16,9 +16,9 @@
 
     ---
 
-    **1701.99**
+    **1702.34**
 
-    추정 순위 약 7,139위
+    추정 순위 약 7,128위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -40,7 +40,7 @@
 
     ---
 
-    **2026.08.23**
+    **2026.08.26**
 
     프로필 개설 2026.04.01
 
@@ -57,8 +57,8 @@
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
 | **EASY**  | 434 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
-| **CLEAR** | 430 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
-| **HARD**  | 429 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
+| **CLEAR** | 431 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
+| **HARD**  | 430 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -72,12 +72,12 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 56 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 373 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 374 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 1 |
-| <span class="lamp lamp-ec">EC</span> | Easy Clear | 4 |
+| <span class="lamp lamp-ec">EC</span> | Easy Clear | 3 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 5 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 49 |
-| <span class="lamp lamp-np">NP</span> | Not Played | 132 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 50 |
+| <span class="lamp lamp-np">NP</span> | Not Played | 131 |
 
 <!-- cpi:lamps:end -->
 
@@ -93,7 +93,7 @@
     | 1500~1600 | 233 | 216 | 93% |
     | 1600~1650 | 100 | 95 | 95% |
     | 1650~1700 | 70 | 38 | 54% |
-    | 1700+ | 131 | 5 | 4% |
+    | 1700+ | 131 | 6 | 5% |
     | 미집계 | 18 | 9 | 50% |
 
     *適正CPI 미산출(算出対象外) 18곡은 '미집계'로 분류.*
@@ -234,7 +234,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
 
     | 곡명 | 適正CPI | 個人差度 | 램프 |
     | --- | ---: | ---: | :---: |
-    | [Almagest](https://cpi.makecir.com/scores/view/285) | 1706.84 | 92.90 | <span class="lamp lamp-ec">EC</span> |
+    | [Almagest](https://cpi.makecir.com/scores/view/285) | 1706.84 | 92.90 | <span class="lamp lamp-hc">HC</span> |
     | [Anisakis -somatic mutation type&quot;Forza&quot;- \[L\]](https://cpi.makecir.com/scores/view/475) | 1707.67 | 96.78 | <span class="lamp lamp-np">NP</span> |
     | [B4U(BEMANI FOR YOU MIX) \[L\]](https://cpi.makecir.com/scores/view/300) | 1700.04 | 92.59 | <span class="lamp lamp-hc">HC</span> |
     | [Binary Black Hole](https://cpi.makecir.com/scores/view/420) | 1743.88 | 114.97 | <span class="lamp lamp-fa">FA</span> |
@@ -245,7 +245,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [CHRONO DIVER -NORNIR- \[L\]](https://cpi.makecir.com/scores/view/148) | 1701.57 | 78.58 | <span class="lamp lamp-fa">FA</span> |
     | [CODE:0 \[L\]](https://cpi.makecir.com/scores/view/514) | 1720.06 | 138.95 | <span class="lamp lamp-np">NP</span> |
     | [CONTRACT \[L\]](https://cpi.makecir.com/scores/view/331) | 1701.00 | 96.18 | <span class="lamp lamp-np">NP</span> |
-    | [DEATH†ZIGOQ ～怒りの高速爆走野郎～](https://cpi.makecir.com/scores/view/67) | 1717.85 | 86.21 | <span class="lamp lamp-np">NP</span> |
+    | [DEATH†ZIGOQ ～怒りの高速爆走野郎～](https://cpi.makecir.com/scores/view/67) | 1717.85 | 86.21 | <span class="lamp lamp-fa">FA</span> |
     | [Don&#039;t believe the hype](https://cpi.makecir.com/scores/view/421) | 1700.27 | 158.67 | <span class="lamp lamp-fa">FA</span> |
     | [four pieces of heaven \[L\]](https://cpi.makecir.com/scores/view/497) | 1734.99 | 115.84 | <span class="lamp lamp-np">NP</span> |
     | [GiGaGaHell](https://cpi.makecir.com/scores/view/423) | 1712.19 | 161.32 | <span class="lamp lamp-np">NP</span> |
