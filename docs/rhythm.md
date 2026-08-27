@@ -16,9 +16,9 @@
 
     ---
 
-    **1702.34**
+    **1704.41**
 
-    추정 순위 약 7,128위
+    추정 순위 약 7,075위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -40,7 +40,7 @@
 
     ---
 
-    **2026.08.26**
+    **2026.08.27**
 
     프로필 개설 2026.04.01
 
@@ -56,9 +56,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 434 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
-| **CLEAR** | 431 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
-| **HARD**  | 430 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
+| **EASY**  | 435 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
+| **CLEAR** | 433 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
+| **HARD**  | 432 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -72,11 +72,11 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 56 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 374 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 376 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 1 |
-| <span class="lamp lamp-ec">EC</span> | Easy Clear | 3 |
+| <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 5 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 50 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 49 |
 | <span class="lamp lamp-np">NP</span> | Not Played | 131 |
 
 <!-- cpi:lamps:end -->
@@ -92,8 +92,8 @@
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 216 | 93% |
     | 1600~1650 | 100 | 95 | 95% |
-    | 1650~1700 | 70 | 38 | 54% |
-    | 1700+ | 131 | 6 | 5% |
+    | 1650~1700 | 70 | 39 | 56% |
+    | 1700+ | 131 | 7 | 5% |
     | 미집계 | 18 | 9 | 50% |
 
     *適正CPI 미산출(算出対象外) 18곡은 '미집계'로 분류.*
@@ -252,7 +252,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [GO OVER WITH GLARE -ROOTAGE 26-](https://cpi.makecir.com/scores/view/34) | 1738.69 | 122.05 | <span class="lamp lamp-fa">FA</span> |
     | [God Mind](https://cpi.makecir.com/scores/view/599) | 1714.33 | 111.35 | <span class="lamp lamp-np">NP</span> |
     | [GuNGNiR](https://cpi.makecir.com/scores/view/94) | 1703.45 | 84.14 | <span class="lamp lamp-np">NP</span> |
-    | [Initiation](https://cpi.makecir.com/scores/view/71) | 1702.31 | 86.60 | <span class="lamp lamp-ec">EC</span> |
+    | [Initiation](https://cpi.makecir.com/scores/view/71) | 1702.31 | 86.60 | <span class="lamp lamp-hc">HC</span> |
     | [JOMANDA](https://cpi.makecir.com/scores/view/223) | 1704.77 | 117.33 | <span class="lamp lamp-fa">FA</span> |
     | [LIGHTNING STRIKES \[L\]](https://cpi.makecir.com/scores/view/570) | 1736.69 | 109.58 | <span class="lamp lamp-np">NP</span> |
     | [LOCUS OF THE TRAVEL](https://cpi.makecir.com/scores/view/407) | 1714.46 | 121.20 | <span class="lamp lamp-cl">CL</span> |
@@ -350,7 +350,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [東京神話](https://cpi.makecir.com/scores/view/84) | 1663.80 | 72.36 | <span class="lamp lamp-hc">HC</span> |
     | [灼熱Beach Side Bunny (かめりあ&#039;s &quot;Summertime D&#039;n&#039;B&quot; Remix)](https://cpi.makecir.com/scores/view/536) | 1664.40 | 192.67 | <span class="lamp lamp-hc">HC</span> |
     | [真 地獄超特急 -HELL or HELL-](https://cpi.makecir.com/scores/view/142) | 1694.42 | 122.56 | <span class="lamp lamp-fa">FA</span> |
-    | [華麗なる大犬円舞曲](https://cpi.makecir.com/scores/view/25) | 1665.67 | 98.06 | <span class="lamp lamp-fa">FA</span> |
+    | [華麗なる大犬円舞曲](https://cpi.makecir.com/scores/view/25) | 1665.67 | 98.06 | <span class="lamp lamp-hc">HC</span> |
     | [超青少年ノ為ノ超多幸ナ超古典的超舞曲 \[L\]](https://cpi.makecir.com/scores/view/185) | 1692.29 | 87.26 | <span class="lamp lamp-fa">FA</span> |
     | [金野火織の金色提言](https://cpi.makecir.com/scores/view/59) | 1676.07 | 89.80 | <span class="lamp lamp-hc">HC</span> |
     | [閠槞彁の願い](https://cpi.makecir.com/scores/view/382) | 1650.58 | 80.20 | <span class="lamp lamp-hc">HC</span> |
