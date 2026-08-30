@@ -6,6 +6,10 @@
 <!-- 이 페이지의 표들은 .github/workflows/update-rhythm.yml 이 매일 22:00 KST에 자동 갱신합니다.
      cpi:*:start ~ cpi:*:end 마커 사이는 손으로 수정하지 마세요 (다음 갱신 때 덮어써집니다). -->
 
+## 글
+
+- [개천 획득의 회고록](rhythm/kaiden-retrospective.md)
+
 ## 프로필 요약
 
 <!-- cpi:profile:start -->

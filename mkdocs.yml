@@ -67,7 +67,9 @@ nav:
       - blog/posts/heap-remove-middle-element.md
       - blog/posts/main-overriding-overloading.md
       - blog/posts/spring-exception-handling.md
-  - IIDX: rhythm.md
+  - IIDX:
+      - rhythm.md
+      - rhythm/kaiden-retrospective.md
 
 markdown_extensions:
   - admonition

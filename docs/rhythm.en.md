@@ -3,6 +3,10 @@
 > Outside of code, I play **beatmania IIDX (SP)**.
 > I track my skill rating with [CPI](https://cpi.makecir.com/users/tables/13196){target=_blank}.
 
+## Posts
+
+- [A Retrospective on Reaching Kaiden](rhythm/kaiden-retrospective.md)
+
 ## Profile Summary
 
 <!-- cpi:profile:start -->
