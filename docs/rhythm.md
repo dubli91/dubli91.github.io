@@ -20,9 +20,9 @@
 
     ---
 
-    **1705.71**
+    **1706.09**
 
-    추정 순위 약 7,038위
+    추정 순위 약 7,022위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -44,7 +44,7 @@
 
     ---
 
-    **2026.08.30**
+    **2026.09.04**
 
     프로필 개설 2026.04.01
 
@@ -60,9 +60,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 435 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
-| **CLEAR** | 433 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
-| **HARD**  | 432 / 620 | 69% | <span class="cpi-bar"><span style="width:69%"></span></span> |
+| **EASY**  | 436 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
+| **CLEAR** | 434 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
+| **HARD**  | 434 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -76,12 +76,12 @@
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
 | <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 59 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 373 |
-| <span class="lamp lamp-cl">CL</span> | Clear | 1 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 375 |
+| <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 5 |
 | <span class="lamp lamp-fa">FA</span> | Failed | 51 |
-| <span class="lamp lamp-np">NP</span> | Not Played | 129 |
+| <span class="lamp lamp-np">NP</span> | Not Played | 128 |
 
 <!-- cpi:lamps:end -->
 
@@ -94,10 +94,10 @@
     | 適正CPI | 곡 수 | 하드 클리어 | 클리어율 |
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
-    | 1500~1600 | 233 | 216 | 93% |
+    | 1500~1600 | 233 | 217 | 93% |
     | 1600~1650 | 100 | 95 | 95% |
     | 1650~1700 | 70 | 39 | 56% |
-    | 1700+ | 131 | 7 | 5% |
+    | 1700+ | 131 | 8 | 6% |
     | 미집계 | 18 | 9 | 50% |
 
     *適正CPI 미산출(算出対象外) 18곡은 '미집계'로 분류.*
@@ -259,7 +259,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Initiation](https://cpi.makecir.com/scores/view/71) | 1702.31 | 86.60 | <span class="lamp lamp-hc">HC</span> |
     | [JOMANDA](https://cpi.makecir.com/scores/view/223) | 1704.77 | 117.33 | <span class="lamp lamp-fa">FA</span> |
     | [LIGHTNING STRIKES \[L\]](https://cpi.makecir.com/scores/view/570) | 1736.69 | 109.58 | <span class="lamp lamp-np">NP</span> |
-    | [LOCUS OF THE TRAVEL](https://cpi.makecir.com/scores/view/407) | 1714.46 | 121.20 | <span class="lamp lamp-cl">CL</span> |
+    | [LOCUS OF THE TRAVEL](https://cpi.makecir.com/scores/view/407) | 1714.46 | 121.20 | <span class="lamp lamp-hc">HC</span> |
     | [LOUDER ROLLING THUNDER](https://cpi.makecir.com/scores/view/480) | 1720.02 | 102.05 | <span class="lamp lamp-np">NP</span> |
     | [Override \[L\]](https://cpi.makecir.com/scores/view/450) | 1727.48 | 122.86 | <span class="lamp lamp-np">NP</span> |
     | [PARANOiA ～HADES～](https://cpi.makecir.com/scores/view/313) | 1708.00 | 134.52 | <span class="lamp lamp-hc">HC</span> |
@@ -601,7 +601,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [AKASHIC BREAK](https://cpi.makecir.com/scores/view/1) | 1545.55 | 81.80 | <span class="lamp lamp-hc">HC</span> |
     | [ALBIDA](https://cpi.makecir.com/scores/view/270) | 1504.95 | 63.72 | <span class="lamp lamp-hc">HC</span> |
     | [Ancient Scapes](https://cpi.makecir.com/scores/view/187) | 1504.42 | 65.43 | <span class="lamp lamp-ex">EX</span> |
-    | [Aqvion](https://cpi.makecir.com/scores/view/592) | 1513.82 | 94.52 | <span class="lamp lamp-np">NP</span> |
+    | [Aqvion](https://cpi.makecir.com/scores/view/592) | 1513.82 | 94.52 | <span class="lamp lamp-hc">HC</span> |
     | [B.O.D.Y.](https://cpi.makecir.com/scores/view/456) | 1540.32 | 101.93 | <span class="lamp lamp-hc">HC</span> |
     | [Beat Radiance \[L\]](https://cpi.makecir.com/scores/view/146) | 1508.50 | 77.71 | <span class="lamp lamp-ex">EX</span> |
     | [BLAZING\_LAZER](https://cpi.makecir.com/scores/view/558) | 1536.22 | 82.25 | <span class="lamp lamp-hc">HC</span> |
