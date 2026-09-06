@@ -26,13 +26,13 @@ jobs:
       - name: Commit & push if changed
         id: commit
         run: |
-          if git diff --quiet -- docs/rhythm.md; then
+          if git diff --quiet -- docs/rhythm.md docs/rhythm.en.md; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "변경 없음 - 커밋 생략"
           else
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add docs/rhythm.md
+            git add docs/rhythm.md docs/rhythm.en.md
             git commit -m "chore: CPI 리듬게임 데이터 자동 갱신 ($(TZ=Asia/Seoul date +%F))"
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
