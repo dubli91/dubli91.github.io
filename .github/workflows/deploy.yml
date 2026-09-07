@@ -4,6 +4,11 @@ on:
   push:
     branches: [master]
   workflow_dispatch:
+    inputs:
+      sha:
+        description: "빌드할 커밋 SHA (미지정 시 트리거 시점의 master)"
+        required: false
+        default: ""
 
 permissions:
   contents: read
@@ -19,7 +24,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # ref 미지정(빈 문자열)이면 github.sha 기준으로 체크아웃됨.
+      # update-rhythm.yml이 push 직후 dispatch할 때 ref 해석이 push 반영 전
+      # master를 가리키는 레이스가 있어, 갱신 커밋 SHA를 input으로 받아 고정한다.
       - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.sha || github.sha }}
 
       - name: Install uv
         uses: astral-sh/setup-uv@v5
