@@ -20,9 +20,9 @@
 
     ---
 
-    **1713.11**
+    **1718.83**
 
-    추정 순위 약 6,828위
+    추정 순위 약 6,672위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -44,7 +44,7 @@
 
     ---
 
-    **2026.09.09**
+    **2026.09.12**
 
     프로필 개설 2026.04.01
 
@@ -60,9 +60,9 @@
 
 | 난이도 | 클리어 | 비율 | 진행도 |
 | --- | ---: | ---: | --- |
-| **EASY**  | 437 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
-| **CLEAR** | 435 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
-| **HARD**  | 435 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
+| **EASY**  | 440 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
+| **CLEAR** | 438 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
+| **HARD**  | 438 / 620 | 70% | <span class="cpi-bar"><span style="width:70%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -75,12 +75,12 @@
 | 램프 | 의미 | 곡 수 |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 65 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 68 |
 | <span class="lamp lamp-hc">HC</span> | Hard Clear | 370 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 6 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 50 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 47 |
 | <span class="lamp lamp-np">NP</span> | Not Played | 127 |
 
 <!-- cpi:lamps:end -->
@@ -95,8 +95,8 @@
     | --- | ---: | ---: | ---: |
     | 1350~1500 | 68 | 66 | 97% |
     | 1500~1600 | 233 | 217 | 93% |
-    | 1600~1650 | 100 | 95 | 95% |
-    | 1650~1700 | 70 | 39 | 56% |
+    | 1600~1650 | 100 | 96 | 96% |
+    | 1650~1700 | 70 | 41 | 59% |
     | 1700+ | 131 | 9 | 7% |
     | 미집계 | 18 | 9 | 50% |
 
@@ -343,12 +343,12 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [waxing and wanding \[L\]](https://cpi.makecir.com/scores/view/334) | 1651.13 | 81.75 | <span class="lamp lamp-fa">FA</span> |
     | [ZEPHYRANTHES \[L\]](https://cpi.makecir.com/scores/view/138) | 1654.93 | 81.90 | <span class="lamp lamp-hc">HC</span> |
     | [Zirkfied](https://cpi.makecir.com/scores/view/236) | 1664.66 | 71.99 | <span class="lamp lamp-hc">HC</span> |
-    | [\[ \]DENTITY](https://cpi.makecir.com/scores/view/466) | 1674.37 | 105.51 | <span class="lamp lamp-fa">FA</span> |
+    | [\[ \]DENTITY](https://cpi.makecir.com/scores/view/466) | 1674.37 | 105.51 | <span class="lamp lamp-hc">HC</span> |
     | [∀](https://cpi.makecir.com/scores/view/379) | 1677.11 | 96.21 | <span class="lamp lamp-hc">HC</span> |
     | [お菓子の王国](https://cpi.makecir.com/scores/view/56) | 1680.10 | 84.76 | <span class="lamp lamp-hc">HC</span> |
     | [バッド・スイーツ、バッド・ドリーム](https://cpi.makecir.com/scores/view/394) | 1671.84 | 118.91 | <span class="lamp lamp-ac">AC</span> |
     | [ピアノ協奏曲第1番”蠍火” (BlackY Remix)](https://cpi.makecir.com/scores/view/23) | 1659.84 | 85.10 | <span class="lamp lamp-hc">HC</span> |
-    | [ピアノ協奏曲第１番”蠍火”](https://cpi.makecir.com/scores/view/349) | 1660.44 | 78.33 | <span class="lamp lamp-fa">FA</span> |
+    | [ピアノ協奏曲第１番”蠍火”](https://cpi.makecir.com/scores/view/349) | 1660.44 | 78.33 | <span class="lamp lamp-hc">HC</span> |
     | [二人ノ廃城幽踊宴](https://cpi.makecir.com/scores/view/401) | 1693.79 | 99.61 | <span class="lamp lamp-fa">FA</span> |
     | [君のハートにロックオン \[L\]](https://cpi.makecir.com/scores/view/435) | 1693.64 | 104.83 | <span class="lamp lamp-fa">FA</span> |
     | [東京神話](https://cpi.makecir.com/scores/view/84) | 1663.80 | 72.36 | <span class="lamp lamp-hc">HC</span> |
@@ -374,7 +374,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Bad Maniacs](https://cpi.makecir.com/scores/view/286) | 1633.13 | 69.65 | <span class="lamp lamp-hc">HC</span> |
     | [BEAT PRISONER](https://cpi.makecir.com/scores/view/3) | 1612.35 | 88.11 | <span class="lamp lamp-hc">HC</span> |
     | [BLUE DRAGON(雷龍RemixIIDX)](https://cpi.makecir.com/scores/view/189) | 1610.55 | 65.03 | <span class="lamp lamp-hc">HC</span> |
-    | [Blue Rain \[L\]](https://cpi.makecir.com/scores/view/309) | 1647.20 | 84.78 | <span class="lamp lamp-fa">FA</span> |
+    | [Blue Rain \[L\]](https://cpi.makecir.com/scores/view/309) | 1647.20 | 84.78 | <span class="lamp lamp-hc">HC</span> |
     | [Boomy and The Boost](https://cpi.makecir.com/scores/view/65) | 1622.04 | 71.78 | <span class="lamp lamp-hc">HC</span> |
     | [Caldwell 99 \[L\]](https://cpi.makecir.com/scores/view/617) | 1605.57 | 105.94 | <span class="lamp lamp-np">NP</span> |
     | [DEADHEAT](https://cpi.makecir.com/scores/view/66) | 1612.73 | 65.99 | <span class="lamp lamp-hc">HC</span> |
@@ -676,7 +676,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [The Last Apocalypse](https://cpi.makecir.com/scores/view/563) | 1544.84 | 73.86 | <span class="lamp lamp-hc">HC</span> |
     | [The Least 100sec](https://cpi.makecir.com/scores/view/170) | 1528.91 | 79.20 | <span class="lamp lamp-hc">HC</span> |
     | [thunder HOUSE NATION Remix \[L\]](https://cpi.makecir.com/scores/view/395) | 1530.64 | 90.53 | <span class="lamp lamp-ex">EX</span> |
-    | [Thunderbolt](https://cpi.makecir.com/scores/view/260) | 1505.76 | 64.24 | <span class="lamp lamp-hc">HC</span> |
+    | [Thunderbolt](https://cpi.makecir.com/scores/view/260) | 1505.76 | 64.24 | <span class="lamp lamp-ex">EX</span> |
     | [TOGAKUSHI](https://cpi.makecir.com/scores/view/107) | 1524.47 | 112.94 | <span class="lamp lamp-ex">EX</span> |
     | [Umbral \[L\]](https://cpi.makecir.com/scores/view/451) | 1528.72 | 110.14 | <span class="lamp lamp-hc">HC</span> |
     | [WONDER WALKER](https://cpi.makecir.com/scores/view/262) | 1522.89 | 53.56 | <span class="lamp lamp-hc">HC</span> |
@@ -728,7 +728,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [KING \[L\]](https://cpi.makecir.com/scores/view/540) | 1475.23 | 101.66 | <span class="lamp lamp-ex">EX</span> |
     | [LASER CRUSTER](https://cpi.makecir.com/scores/view/325) | 1481.27 | 69.73 | <span class="lamp lamp-ex">EX</span> |
     | [LIGHTNING STRIKES](https://cpi.makecir.com/scores/view/9) | 1456.01 | 99.32 | <span class="lamp lamp-ex">EX</span> |
-    | [Little Star](https://cpi.makecir.com/scores/view/225) | 1460.79 | 78.18 | <span class="lamp lamp-hc">HC</span> |
+    | [Little Star](https://cpi.makecir.com/scores/view/225) | 1460.79 | 78.18 | <span class="lamp lamp-ex">EX</span> |
     | [moon\_child](https://cpi.makecir.com/scores/view/354) | 1488.69 | 95.25 | <span class="lamp lamp-hc">HC</span> |
     | [mosaic](https://cpi.makecir.com/scores/view/296) | 1463.28 | 91.13 | <span class="lamp lamp-ex">EX</span> |
     | [NINJA IS DEAD IIDX ver.](https://cpi.makecir.com/scores/view/129) | 1484.08 | 126.07 | <span class="lamp lamp-hc">HC</span> |
@@ -759,7 +759,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [紫陽花 -AZISAI-](https://cpi.makecir.com/scores/view/143) | 1464.73 | 85.56 | <span class="lamp lamp-ex">EX</span> |
     | [表裏一体！？怪盗いいんちょの悩み](https://cpi.makecir.com/scores/view/184) | 1488.32 | 68.92 | <span class="lamp lamp-ex">EX</span> |
     | [雪月花](https://cpi.makecir.com/scores/view/353) | 1453.19 | 92.70 | <span class="lamp lamp-hc">HC</span> |
-    | [黒髪乱れし修羅となりて](https://cpi.makecir.com/scores/view/283) | 1459.45 | 77.59 | <span class="lamp lamp-hc">HC</span> |
+    | [黒髪乱れし修羅となりて](https://cpi.makecir.com/scores/view/283) | 1459.45 | 77.59 | <span class="lamp lamp-ex">EX</span> |
 
     **適正CPI 1400 ~ 1450** · 15곡
 
