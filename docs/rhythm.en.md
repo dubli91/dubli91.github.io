@@ -17,9 +17,9 @@
 
     ---
 
-    **1716.72**
+    **1717.36**
 
-    Estimated rank ~#6,734
+    Estimated rank ~#6,709
 
 -   :material-medal:{ .lg .middle } __段位 (Dan)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.09.29**
+    **2026.10.03**
 
     Profile created 2026.04.01
 
@@ -72,8 +72,8 @@ A tally of the best clear grade (lamp) for each song played.
 | Lamp | Meaning | Songs |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 73 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 384 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 74 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 383 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 6 |
@@ -612,7 +612,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [dAuntl3ss](https://cpi.makecir.com/scores/view/53) | 1529.25 | 68.64 | <span class="lamp lamp-hc">HC</span> |
     | [destination](https://cpi.makecir.com/scores/view/554) | 1537.17 | 64.63 | <span class="lamp lamp-hc">HC</span> |
     | [Double Dribble](https://cpi.makecir.com/scores/view/4) | 1514.41 | 119.15 | <span class="lamp lamp-hc">HC</span> |
-    | [Dr. Chemical &amp; Killing Machine](https://cpi.makecir.com/scores/view/30) | 1545.79 | 65.00 | <span class="lamp lamp-hc">HC</span> |
+    | [Dr. Chemical &amp; Killing Machine](https://cpi.makecir.com/scores/view/30) | 1545.79 | 65.00 | <span class="lamp lamp-ex">EX</span> |
     | [Drastic Dramatic](https://cpi.makecir.com/scores/view/31) | 1509.58 | 74.83 | <span class="lamp lamp-ex">EX</span> |
     | [entelecheia](https://cpi.makecir.com/scores/view/174) | 1548.78 | 62.40 | <span class="lamp lamp-hc">HC</span> |
     | [EVANESCENT](https://cpi.makecir.com/scores/view/32) | 1538.97 | 83.08 | <span class="lamp lamp-hc">HC</span> |

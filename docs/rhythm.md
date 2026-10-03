@@ -20,9 +20,9 @@
 
     ---
 
-    **1716.72**
+    **1717.36**
 
-    추정 순위 약 6,734위
+    추정 순위 약 6,709위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -44,7 +44,7 @@
 
     ---
 
-    **2026.09.29**
+    **2026.10.03**
 
     프로필 개설 2026.04.01
 
@@ -75,8 +75,8 @@
 | 램프 | 의미 | 곡 수 |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 73 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 384 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 74 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 383 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 6 |
@@ -615,7 +615,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [dAuntl3ss](https://cpi.makecir.com/scores/view/53) | 1529.25 | 68.64 | <span class="lamp lamp-hc">HC</span> |
     | [destination](https://cpi.makecir.com/scores/view/554) | 1537.17 | 64.63 | <span class="lamp lamp-hc">HC</span> |
     | [Double Dribble](https://cpi.makecir.com/scores/view/4) | 1514.41 | 119.15 | <span class="lamp lamp-hc">HC</span> |
-    | [Dr. Chemical &amp; Killing Machine](https://cpi.makecir.com/scores/view/30) | 1545.79 | 65.00 | <span class="lamp lamp-hc">HC</span> |
+    | [Dr. Chemical &amp; Killing Machine](https://cpi.makecir.com/scores/view/30) | 1545.79 | 65.00 | <span class="lamp lamp-ex">EX</span> |
     | [Drastic Dramatic](https://cpi.makecir.com/scores/view/31) | 1509.58 | 74.83 | <span class="lamp lamp-ex">EX</span> |
     | [entelecheia](https://cpi.makecir.com/scores/view/174) | 1548.78 | 62.40 | <span class="lamp lamp-hc">HC</span> |
     | [EVANESCENT](https://cpi.makecir.com/scores/view/32) | 1538.97 | 83.08 | <span class="lamp lamp-hc">HC</span> |
