@@ -17,9 +17,9 @@
 
     ---
 
-    **1719.13**
+    **1722.90**
 
-    Estimated rank ~#6,663
+    Estimated rank ~#6,552
 
 -   :material-medal:{ .lg .middle } __段位 (Dan)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.10.09**
+    **2026.10.10**
 
     Profile created 2026.04.01
 
@@ -72,8 +72,8 @@ A tally of the best clear grade (lamp) for each song played.
 | Lamp | Meaning | Songs |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 75 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 384 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 80 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 379 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 6 |
@@ -602,9 +602,9 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [B.O.D.Y.](https://cpi.makecir.com/scores/view/456) | 1540.32 | 101.93 | <span class="lamp lamp-hc">HC</span> |
     | [Beat Radiance \[L\]](https://cpi.makecir.com/scores/view/146) | 1508.50 | 77.71 | <span class="lamp lamp-ex">EX</span> |
     | [BLAZING\_LAZER](https://cpi.makecir.com/scores/view/558) | 1536.22 | 82.25 | <span class="lamp lamp-hc">HC</span> |
-    | [Bring The Fire](https://cpi.makecir.com/scores/view/547) | 1544.69 | 67.33 | <span class="lamp lamp-hc">HC</span> |
+    | [Bring The Fire](https://cpi.makecir.com/scores/view/547) | 1544.69 | 67.33 | <span class="lamp lamp-ex">EX</span> |
     | [Candy Galy](https://cpi.makecir.com/scores/view/320) | 1530.68 | 59.96 | <span class="lamp lamp-hc">HC</span> |
-    | [Catch Our Fire!](https://cpi.makecir.com/scores/view/28) | 1532.13 | 68.13 | <span class="lamp lamp-hc">HC</span> |
+    | [Catch Our Fire!](https://cpi.makecir.com/scores/view/28) | 1532.13 | 68.13 | <span class="lamp lamp-ex">EX</span> |
     | [Colors (radio edit)](https://cpi.makecir.com/scores/view/359) | 1520.00 | 84.37 | <span class="lamp lamp-hc">HC</span> |
     | [Concertino in Blue](https://cpi.makecir.com/scores/view/332) | 1521.60 | 93.67 | <span class="lamp lamp-hc">HC</span> |
     | [COSMIC V3LOCITY](https://cpi.makecir.com/scores/view/548) | 1530.87 | 95.38 | <span class="lamp lamp-np">NP</span> |
@@ -624,7 +624,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [frequent](https://cpi.makecir.com/scores/view/503) | 1506.68 | 96.36 | <span class="lamp lamp-ex">EX</span> |
     | [Friction\[!\]Function](https://cpi.makecir.com/scores/view/6) | 1520.18 | 89.73 | <span class="lamp lamp-hc">HC</span> |
     | [FUZIN RIZIN](https://cpi.makecir.com/scores/view/92) | 1540.33 | 66.17 | <span class="lamp lamp-ex">EX</span> |
-    | [GAIA](https://cpi.makecir.com/scores/view/221) | 1516.69 | 62.09 | <span class="lamp lamp-hc">HC</span> |
+    | [GAIA](https://cpi.makecir.com/scores/view/221) | 1516.69 | 62.09 | <span class="lamp lamp-ex">EX</span> |
     | [garden \[L\]](https://cpi.makecir.com/scores/view/634) | 1511.33 | 109.09 | <span class="lamp lamp-hc">HC</span> |
     | [Ghost Pulse](https://cpi.makecir.com/scores/view/500) | 1535.90 | 86.25 | <span class="lamp lamp-hc">HC</span> |
     | [GOLDEN CROSS](https://cpi.makecir.com/scores/view/291) | 1531.15 | 58.34 | <span class="lamp lamp-hc">HC</span> |
@@ -649,7 +649,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [No Border](https://cpi.makecir.com/scores/view/461) | 1520.39 | 89.90 | <span class="lamp lamp-hc">HC</span> |
     | [ONE AND ONLY](https://cpi.makecir.com/scores/view/482) | 1507.57 | 99.82 | <span class="lamp lamp-hc">HC</span> |
     | [one or eight](https://cpi.makecir.com/scores/view/355) | 1507.15 | 115.25 | <span class="lamp lamp-hc">HC</span> |
-    | [oratio](https://cpi.makecir.com/scores/view/318) | 1517.43 | 71.01 | <span class="lamp lamp-hc">HC</span> |
+    | [oratio](https://cpi.makecir.com/scores/view/318) | 1517.43 | 71.01 | <span class="lamp lamp-ex">EX</span> |
     | [Ou Legends](https://cpi.makecir.com/scores/view/462) | 1532.37 | 89.36 | <span class="lamp lamp-hc">HC</span> |
     | [Out of Control](https://cpi.makecir.com/scores/view/528) | 1539.65 | 87.84 | <span class="lamp lamp-hc">HC</span> |
     | [Persephone](https://cpi.makecir.com/scores/view/75) | 1506.05 | 82.65 | <span class="lamp lamp-hc">HC</span> |
@@ -717,7 +717,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [dica dica](https://cpi.makecir.com/scores/view/487) | 1497.16 | 134.21 | <span class="lamp lamp-hc">HC</span> |
     | [encounter](https://cpi.makecir.com/scores/view/82) | 1455.95 | 97.55 | <span class="lamp lamp-ex">EX</span> |
     | [F](https://cpi.makecir.com/scores/view/252) | 1454.02 | 73.57 | <span class="lamp lamp-ex">EX</span> |
-    | [FIRE FIRE](https://cpi.makecir.com/scores/view/321) | 1487.79 | 74.84 | <span class="lamp lamp-hc">HC</span> |
+    | [FIRE FIRE](https://cpi.makecir.com/scores/view/321) | 1487.79 | 74.84 | <span class="lamp lamp-ex">EX</span> |
     | [glacia](https://cpi.makecir.com/scores/view/488) | 1452.64 | 123.15 | <span class="lamp lamp-ex">EX</span> |
     | [Hat Surprise (Season 2)](https://cpi.makecir.com/scores/view/458) | 1487.92 | 90.50 | <span class="lamp lamp-ex">EX</span> |
     | [Highcharge Divolt](https://cpi.makecir.com/scores/view/126) | 1480.92 | 106.54 | <span class="lamp lamp-ex">EX</span> |
