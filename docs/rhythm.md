@@ -36,7 +36,7 @@
 
     ---
 
-    **ELABO**
+    **CODEX.**
 
     ID 8363-2725
 
@@ -44,7 +44,7 @@
 
     ---
 
-    **2026.10.25**
+    **2026.10.26**
 
     프로필 개설 2026.04.01
 
@@ -75,8 +75,8 @@
 | 램프 | 의미 | 곡 수 |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 84 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 377 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 85 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 376 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 5 |
@@ -796,7 +796,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | --- | ---: | ---: | :---: |
     | [2 Be Continued](https://cpi.makecir.com/scores/view/580) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [chaplet -IIDX re:build-](https://cpi.makecir.com/scores/view/588) | — | — | <span class="lamp lamp-hc">HC</span> |
-    | [Disco Killer Music Lover](https://cpi.makecir.com/scores/view/581) | — | — | <span class="lamp lamp-hc">HC</span> |
+    | [Disco Killer Music Lover](https://cpi.makecir.com/scores/view/581) | — | — | <span class="lamp lamp-ex">EX</span> |
     | [Flamingo](https://cpi.makecir.com/scores/view/597) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [From Human Blood](https://cpi.makecir.com/scores/view/582) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [INAZUMA \[L\]](https://cpi.makecir.com/scores/view/633) | — | — | <span class="lamp lamp-fa">FA</span> |
