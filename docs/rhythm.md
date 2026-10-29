@@ -20,9 +20,9 @@
 
     ---
 
-    **1726.01**
+    **1726.80**
 
-    추정 순위 약 6,475위
+    추정 순위 약 6,453위
 
 -   :material-medal:{ .lg .middle } __段位 (단위)__
 
@@ -44,7 +44,7 @@
 
     ---
 
-    **2026.10.26**
+    **2026.10.29**
 
     프로필 개설 2026.04.01
 
@@ -75,8 +75,8 @@
 | 램프 | 의미 | 곡 수 |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 85 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 376 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 87 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 374 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 5 |
@@ -739,7 +739,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [RED ZONE \[L\]](https://cpi.makecir.com/scores/view/345) | 1471.74 | 92.37 | <span class="lamp lamp-ex">EX</span> |
     | [SCREAM SQUAD](https://cpi.makecir.com/scores/view/338) | 1497.87 | 125.64 | <span class="lamp lamp-hc">HC</span> |
     | [Sirius](https://cpi.makecir.com/scores/view/529) | 1485.77 | 90.96 | <span class="lamp lamp-ex">EX</span> |
-    | [SpaceLand☆TOYBOX](https://cpi.makecir.com/scores/view/166) | 1493.23 | 71.45 | <span class="lamp lamp-hc">HC</span> |
+    | [SpaceLand☆TOYBOX](https://cpi.makecir.com/scores/view/166) | 1493.23 | 71.45 | <span class="lamp lamp-ex">EX</span> |
     | [Summerlights(IIDX Edition)](https://cpi.makecir.com/scores/view/105) | 1494.70 | 84.26 | <span class="lamp lamp-ex">EX</span> |
     | [Symmetry](https://cpi.makecir.com/scores/view/167) | 1450.50 | 81.29 | <span class="lamp lamp-ex">EX</span> |
     | [The Onlyonez](https://cpi.makecir.com/scores/view/564) | 1499.51 | 143.17 | <span class="lamp lamp-ex">EX</span> |
@@ -804,7 +804,7 @@ CPI 원본의 HARD 표(適正CPI · 個人差度) **전체**입니다. 매일 �
     | [Memoria Obscura](https://cpi.makecir.com/scores/view/584) | — | — | <span class="lamp lamp-fa">FA</span> |
     | [Pinky Happy Crazy](https://cpi.makecir.com/scores/view/602) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [POLKAMANIA \[L\]](https://cpi.makecir.com/scores/view/622) | — | — | <span class="lamp lamp-fa">FA</span> |
-    | [RALLY &#039;25](https://cpi.makecir.com/scores/view/585) | — | — | <span class="lamp lamp-hc">HC</span> |
+    | [RALLY &#039;25](https://cpi.makecir.com/scores/view/585) | — | — | <span class="lamp lamp-ex">EX</span> |
     | [Regina vespaE](https://cpi.makecir.com/scores/view/586) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [Space Battleship S4TO](https://cpi.makecir.com/scores/view/587) | — | — | <span class="lamp lamp-ex">EX</span> |
     | [uen](https://cpi.makecir.com/scores/view/611) | — | — | <span class="lamp lamp-hc">HC</span> |
