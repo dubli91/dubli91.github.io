@@ -17,9 +17,9 @@
 
     ---
 
-    **1728.93**
+    **1728.54**
 
-    Estimated rank ~#6,392
+    Estimated rank ~#6,403
 
 -   :material-medal:{ .lg .middle } __段位 (Dan)__
 
@@ -41,7 +41,7 @@
 
     ---
 
-    **2026.10.31**
+    **2026.11.20**
 
     Profile created 2026.04.01
 
@@ -57,9 +57,9 @@ Out of **620 songs** in the CPI table range.
 
 | Difficulty | Cleared | Rate | Progress |
 | --- | ---: | ---: | --- |
-| **EASY**  | 467 / 620 | 75% | <span class="cpi-bar"><span style="width:75%"></span></span> |
-| **CLEAR** | 465 / 620 | 75% | <span class="cpi-bar"><span style="width:75%"></span></span> |
-| **HARD**  | 465 / 620 | 75% | <span class="cpi-bar"><span style="width:75%"></span></span> |
+| **EASY**  | 468 / 620 | 75% | <span class="cpi-bar"><span style="width:75%"></span></span> |
+| **CLEAR** | 466 / 620 | 75% | <span class="cpi-bar"><span style="width:75%"></span></span> |
+| **HARD**  | 466 / 620 | 75% | <span class="cpi-bar"><span style="width:75%"></span></span> |
 
 <!-- cpi:clears:end -->
 
@@ -72,13 +72,13 @@ A tally of the best clear grade (lamp) for each song played.
 | Lamp | Meaning | Songs |
 | :---: | --- | ---: |
 | <span class="lamp lamp-fc">FC</span> | Full Combo | 0 |
-| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 88 |
-| <span class="lamp lamp-hc">HC</span> | Hard Clear | 377 |
+| <span class="lamp lamp-ex">EX</span> | EX-HARD Clear | 90 |
+| <span class="lamp lamp-hc">HC</span> | Hard Clear | 376 |
 | <span class="lamp lamp-cl">CL</span> | Clear | 0 |
 | <span class="lamp lamp-ec">EC</span> | Easy Clear | 2 |
 | <span class="lamp lamp-ac">AC</span> | Assist Clear | 5 |
-| <span class="lamp lamp-fa">FA</span> | Failed | 55 |
-| <span class="lamp lamp-np">NP</span> | Not Played | 93 |
+| <span class="lamp lamp-fa">FA</span> | Failed | 58 |
+| <span class="lamp lamp-np">NP</span> | Not Played | 89 |
 
 <!-- cpi:lamps:end -->
 
@@ -95,7 +95,7 @@ A tally of the best clear grade (lamp) for each song played.
     | 1600~1650 | 100 | 98 | 98% |
     | 1650~1700 | 70 | 46 | 66% |
     | 1700+ | 131 | 11 | 8% |
-    | Unrated | 18 | 12 | 67% |
+    | Unrated | 18 | 13 | 72% |
 
     *18 songs without a 適正CPI value (算出対象外) are grouped as 'Unrated'.*
 
@@ -211,7 +211,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [Lost Souls \[L\]](https://cpi.makecir.com/scores/view/571) | 1794.53 | 136.81 | <span class="lamp lamp-np">NP</span> |
     | [MEGAERA](https://cpi.makecir.com/scores/view/389) | 1768.51 | 134.07 | <span class="lamp lamp-np">NP</span> |
     | [perditus†paradisus](https://cpi.makecir.com/scores/view/279) | 1767.53 | 114.73 | <span class="lamp lamp-np">NP</span> |
-    | [Red. by Jack Trance](https://cpi.makecir.com/scores/view/45) | 1787.17 | 174.64 | <span class="lamp lamp-np">NP</span> |
+    | [Red. by Jack Trance](https://cpi.makecir.com/scores/view/45) | 1787.17 | 174.64 | <span class="lamp lamp-fa">FA</span> |
     | [SOLAR ECLIPSE](https://cpi.makecir.com/scores/view/502) | 1755.20 | 144.27 | <span class="lamp lamp-fa">FA</span> |
     | [STEEL NEEDLE \[L\]](https://cpi.makecir.com/scores/view/404) | 1756.25 | 130.21 | <span class="lamp lamp-fa">FA</span> |
     | [The Chase](https://cpi.makecir.com/scores/view/79) | 1751.46 | 237.96 | <span class="lamp lamp-ac">AC</span> |
@@ -242,7 +242,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [BLACK.by X-Cross Fade](https://cpi.makecir.com/scores/view/250) | 1705.85 | 155.71 | <span class="lamp lamp-ac">AC</span> |
     | [Bow shock!! \[L\]](https://cpi.makecir.com/scores/view/624) | 1705.56 | 99.40 | <span class="lamp lamp-np">NP</span> |
     | [BroGamer \[L\]](https://cpi.makecir.com/scores/view/434) | 1742.32 | 118.61 | <span class="lamp lamp-np">NP</span> |
-    | [ChaserXX \[L\]](https://cpi.makecir.com/scores/view/625) | 1706.62 | 115.31 | <span class="lamp lamp-np">NP</span> |
+    | [ChaserXX \[L\]](https://cpi.makecir.com/scores/view/625) | 1706.62 | 115.31 | <span class="lamp lamp-fa">FA</span> |
     | [CHRONO DIVER -NORNIR- \[L\]](https://cpi.makecir.com/scores/view/148) | 1701.57 | 78.58 | <span class="lamp lamp-fa">FA</span> |
     | [CODE:0 \[L\]](https://cpi.makecir.com/scores/view/514) | 1720.06 | 138.95 | <span class="lamp lamp-np">NP</span> |
     | [CONTRACT \[L\]](https://cpi.makecir.com/scores/view/331) | 1701.00 | 96.18 | <span class="lamp lamp-np">NP</span> |
@@ -257,7 +257,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [JOMANDA](https://cpi.makecir.com/scores/view/223) | 1704.77 | 117.33 | <span class="lamp lamp-fa">FA</span> |
     | [LIGHTNING STRIKES \[L\]](https://cpi.makecir.com/scores/view/570) | 1736.69 | 109.58 | <span class="lamp lamp-fa">FA</span> |
     | [LOCUS OF THE TRAVEL](https://cpi.makecir.com/scores/view/407) | 1714.46 | 121.20 | <span class="lamp lamp-hc">HC</span> |
-    | [LOUDER ROLLING THUNDER](https://cpi.makecir.com/scores/view/480) | 1720.02 | 102.05 | <span class="lamp lamp-np">NP</span> |
+    | [LOUDER ROLLING THUNDER](https://cpi.makecir.com/scores/view/480) | 1720.02 | 102.05 | <span class="lamp lamp-fa">FA</span> |
     | [Override \[L\]](https://cpi.makecir.com/scores/view/450) | 1727.48 | 122.86 | <span class="lamp lamp-np">NP</span> |
     | [PARANOiA ～HADES～](https://cpi.makecir.com/scores/view/313) | 1708.00 | 134.52 | <span class="lamp lamp-hc">HC</span> |
     | [REVOLVER \[L\]](https://cpi.makecir.com/scores/view/445) | 1712.50 | 117.97 | <span class="lamp lamp-hc">HC</span> |
@@ -311,7 +311,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [Ganymede \[L\]](https://cpi.makecir.com/scores/view/396) | 1668.49 | 103.19 | <span class="lamp lamp-fa">FA</span> |
     | [HYENA \[L\]](https://cpi.makecir.com/scores/view/628) | 1697.69 | 83.49 | <span class="lamp lamp-np">NP</span> |
     | [Inferno of Fomalhaut](https://cpi.makecir.com/scores/view/7) | 1682.29 | 136.28 | <span class="lamp lamp-hc">HC</span> |
-    | [invoker \[L\]](https://cpi.makecir.com/scores/view/208) | 1667.81 | 67.39 | <span class="lamp lamp-np">NP</span> |
+    | [invoker \[L\]](https://cpi.makecir.com/scores/view/208) | 1667.81 | 67.39 | <span class="lamp lamp-fa">FA</span> |
     | [KAISER PHOENIX](https://cpi.makecir.com/scores/view/198) | 1679.41 | 72.91 | <span class="lamp lamp-fa">FA</span> |
     | [Level 3](https://cpi.makecir.com/scores/view/408) | 1699.99 | 167.85 | <span class="lamp lamp-hc">HC</span> |
     | [Life Is A Game ft.DD&quot;ナカタ&quot;Metal](https://cpi.makecir.com/scores/view/72) | 1655.63 | 66.66 | <span class="lamp lamp-hc">HC</span> |
@@ -626,7 +626,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [FUZIN RIZIN](https://cpi.makecir.com/scores/view/92) | 1540.33 | 66.17 | <span class="lamp lamp-ex">EX</span> |
     | [GAIA](https://cpi.makecir.com/scores/view/221) | 1516.69 | 62.09 | <span class="lamp lamp-ex">EX</span> |
     | [garden \[L\]](https://cpi.makecir.com/scores/view/634) | 1511.33 | 109.09 | <span class="lamp lamp-hc">HC</span> |
-    | [Ghost Pulse](https://cpi.makecir.com/scores/view/500) | 1535.90 | 86.25 | <span class="lamp lamp-hc">HC</span> |
+    | [Ghost Pulse](https://cpi.makecir.com/scores/view/500) | 1535.90 | 86.25 | <span class="lamp lamp-ex">EX</span> |
     | [GOLDEN CROSS](https://cpi.makecir.com/scores/view/291) | 1531.15 | 58.34 | <span class="lamp lamp-hc">HC</span> |
     | [Gravigazer](https://cpi.makecir.com/scores/view/156) | 1528.99 | 66.27 | <span class="lamp lamp-hc">HC</span> |
     | [GRID KNIGHT \[L\]](https://cpi.makecir.com/scores/view/323) | 1507.57 | 107.10 | <span class="lamp lamp-ex">EX</span> |
@@ -744,7 +744,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [TIEFSEE](https://cpi.makecir.com/scores/view/168) | 1490.43 | 64.40 | <span class="lamp lamp-ex">EX</span> |
     | [Todestrieb](https://cpi.makecir.com/scores/view/261) | 1464.10 | 67.95 | <span class="lamp lamp-ex">EX</span> |
     | [TROOPERS](https://cpi.makecir.com/scores/view/316) | 1483.35 | 133.69 | <span class="lamp lamp-hc">HC</span> |
-    | [True Blue](https://cpi.makecir.com/scores/view/234) | 1498.84 | 63.52 | <span class="lamp lamp-hc">HC</span> |
+    | [True Blue](https://cpi.makecir.com/scores/view/234) | 1498.84 | 63.52 | <span class="lamp lamp-ex">EX</span> |
     | [V](https://cpi.makecir.com/scores/view/360) | 1494.30 | 101.94 | <span class="lamp lamp-hc">HC</span> |
     | [VANESSA](https://cpi.makecir.com/scores/view/327) | 1479.43 | 74.78 | <span class="lamp lamp-ex">EX</span> |
     | [Venom](https://cpi.makecir.com/scores/view/108) | 1465.37 | 117.13 | <span class="lamp lamp-ex">EX</span> |
@@ -800,7 +800,7 @@ The **complete** HARD table (適正CPI · 個人差度) from the CPI source, ref
     | [Makin&#039; It](https://cpi.makecir.com/scores/view/583) | — | — | <span class="lamp lamp-fa">FA</span> |
     | [Memoria Obscura](https://cpi.makecir.com/scores/view/584) | — | — | <span class="lamp lamp-fa">FA</span> |
     | [Pinky Happy Crazy](https://cpi.makecir.com/scores/view/602) | — | — | <span class="lamp lamp-hc">HC</span> |
-    | [POLKAMANIA \[L\]](https://cpi.makecir.com/scores/view/622) | — | — | <span class="lamp lamp-fa">FA</span> |
+    | [POLKAMANIA \[L\]](https://cpi.makecir.com/scores/view/622) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [RALLY &#039;25](https://cpi.makecir.com/scores/view/585) | — | — | <span class="lamp lamp-ex">EX</span> |
     | [Regina vespaE](https://cpi.makecir.com/scores/view/586) | — | — | <span class="lamp lamp-hc">HC</span> |
     | [Space Battleship S4TO](https://cpi.makecir.com/scores/view/587) | — | — | <span class="lamp lamp-ex">EX</span> |
